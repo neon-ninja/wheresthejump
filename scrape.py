@@ -7,7 +7,7 @@ from requests_html import HTMLSession
 import undetected_chromedriver as uc
 driver = uc.Chrome(headless=False, use_subprocess=False)
 driver.implicitly_wait(10)
-driver.set_page_load_timeout(5)
+driver.set_page_load_timeout(30)
 from selenium.webdriver.common.by import By
 import time
 import pandas as pd
