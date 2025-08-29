@@ -1,0 +1,19 @@
+1
+00:05:25,000 --> 00:05:30,000
+Upcoming jump scare (Major)
+
+2
+00:17:06,000 --> 00:17:11,000
+Upcoming jump scare (Minor)
+
+3
+00:38:22,000 --> 00:38:27,000
+Upcoming jump scare (Major)
+
+4
+00:43:44,000 --> 00:43:49,000
+Upcoming jump scare (Minor)
+
+5
+01:11:16,000 --> 01:11:21,000
+Upcoming jump scare (Minor)
