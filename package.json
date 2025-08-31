@@ -1,0 +1,23 @@
+{
+  "name": "stremio_wheresthejump",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neon-ninja/wheresthejump.git"
+  },
+  "author": "neon-ninja",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neon-ninja/wheresthejump/issues"
+  },
+  "homepage": "https://github.com/neon-ninja/wheresthejump#readme",
+  "dependencies": {
+    "papaparse": "^5.5.3",
+    "stremio-addon-sdk": "^1.6.10"
+  }
+}
