@@ -6,7 +6,7 @@ const Papa = require("papaparse");
 
 const manifest = {
   id: "org.stremio.wheresthejump",
-  version: "1.0.0",
+  version: "1.0.1",
   name: "Where's The Jump",
   description: "Adds jump scare information from wheresthejump.com",
   resources: ["stream", "subtitles"],
@@ -64,14 +64,25 @@ builder.defineSubtitlesHandler(async ({ type, id }) => {
   id = id.split(":")[0]; // IMDb ID
   const jumpInfo = jumpScareData[id];
   let srtFile = jumpInfo.srtLink.replace("https://wheresthejump.com/subtitles/", "");
+  if (!srtFile) {
+    return { subtitles: [] };
+  }
   let srtUrl = `https://raw.githubusercontent.com/neon-ninja/wheresthejump/refs/heads/main/srt/` + srtFile
   return {
-    subtitles: [{
-      id: `wheresthejump-${id}`,
-      url: srtUrl,
-      lang: "en",
-      name: "Jump Scare SRT"
-    }]
+    subtitles: [
+      {
+        id: `wheresthejump-merged-${id}`,
+        url: srtUrl.replace(".srt", "_merged.srt"),
+        lang: "en",
+        name: "Jump Scare + EN SRT"
+      },
+      {
+        id: `wheresthejump-${id}`,
+        url: srtUrl,
+        lang: "en",
+        name: "Jump Scare SRT"
+      }
+    ],
   };
 });
 
