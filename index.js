@@ -8,7 +8,7 @@ const manifest = {
   id: "org.stremio.wheresthejump",
   version: "1.0.1",
   name: "Where's The Jump",
-  description: "Adds jump scare information from wheresthejump.com",
+  description: "Adds jump scare information and subtitles from wheresthejump.com. Open source at <a href='https://github.com/neon-ninja/wheresthejump'>https://github.com/neon-ninja/wheresthejump</a>",
   resources: ["stream", "subtitles"],
   types: ["movie", "series"],
   idPrefixes: ["tt"], // IMDb IDs
