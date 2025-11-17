@@ -1,0 +1,4672 @@
+1
+00:00:52,320 --> 00:00:53,765
+(MACHINE BEEPS)
+
+2
+00:00:57,600 --> 00:00:59,250
+MAN 1:
+
+3
+00:01:02,600 --> 00:01:04,807
+- MAN 2:
+- MAN 1:
+
+4
+00:01:05,000 --> 00:01:06,081
+MAN 2:
+
+5
+00:01:09,480 --> 00:01:11,721
+(FLATLINE TONE)
+
+6
+00:01:12,560 --> 00:01:14,289
+MAN 2:
+
+7
+00:01:14,440 --> 00:01:17,284
+WOMAN:
+
+8
+00:01:24,120 --> 00:01:25,884
+(ELECTRICITY SURGES)
+
+9
+00:01:29,240 --> 00:01:31,402
+(FLATLINE TONE)
+
+10
+00:01:32,120 --> 00:01:33,281
+MAN 2:
+
+11
+00:01:33,440 --> 00:01:34,521
+CLAY:
+
+12
+00:01:34,680 --> 00:01:36,444
+- MAN 2:
+- WOMAN:
+
+13
+00:01:36,600 --> 00:01:38,887
+MAN 2:
+
+14
+00:01:39,040 --> 00:01:42,806
+WOMAN:
+
+15
+00:01:42,960 --> 00:01:45,167
+- (ELECTRICITY SURGES)
+- (FLATLINE TONE)
+
+16
+00:01:46,320 --> 00:01:49,130
+(FLATLINE TONE CONTINUES)
+
+17
+00:01:53,440 --> 00:01:54,680
+CLAY:
+
+18
+00:01:57,200 --> 00:01:58,690
+WOMAN:
+
+19
+00:01:58,840 --> 00:02:00,251
+CLAY:
+
+20
+00:02:00,400 --> 00:02:04,325
+- (PIG SQUEALING)
+- (OVERLAPPING SHOUTS)
+
+21
+00:02:04,520 --> 00:02:05,760
+CLAY: <i>It's still alive!</i>
+
+22
+00:02:06,240 --> 00:02:08,288
+(FLATLINE TONE)
+
+23
+00:02:09,560 --> 00:02:12,609
+- WOMAN:
+- CLAY:
+
+24
+00:02:12,760 --> 00:02:14,842
+(FLATLINE TONE CONTINUES)
+
+25
+00:02:17,080 --> 00:02:19,003
+MAN 2:
+
+26
+00:03:14,480 --> 00:03:16,369
+(BIRDS SINGING)
+
+27
+00:03:20,520 --> 00:03:23,842
+- Good morning, Dr. McConnell.
+- Good morning, James. She's with me.
+
+28
+00:03:28,840 --> 00:03:30,649
+(BUTTONS BEEPING)
+
+29
+00:03:32,000 --> 00:03:33,604
+(ELEVATOR DINGS)
+
+30
+00:03:40,480 --> 00:03:41,766
+(DINGING)
+
+31
+00:03:46,920 --> 00:03:50,083
+Um, we're operating under a grant
+from Werner-Goss Biotechnical,
+
+32
+00:03:50,240 --> 00:03:52,846
+so you're gonna need to sign
+a confidentiality agreement.
+
+33
+00:03:54,760 --> 00:03:56,171
+Uh, Niko, this is Eva.
+
+34
+00:03:56,320 --> 00:03:59,005
+- She's gonna be working with us.
+- Hi. Nice to meet you.
+
+35
+00:03:59,160 --> 00:04:01,561
+- This is Clay.
+- BOTH: Hey.
+
+36
+00:04:05,440 --> 00:04:06,601
+- OK.
+- (CAMERA BEEPS)
+
+37
+00:04:07,680 --> 00:04:10,126
+We are... rolling.
+
+38
+00:04:10,840 --> 00:04:12,569
+Hi, I am Dr. Frank Walton.
+
+39
+00:04:12,720 --> 00:04:14,848
+And I am Dr. Zoe McConnell.
+
+40
+00:04:15,000 --> 00:04:17,571
+- (LAUGHING) Sorry.
+- What? No, what?
+
+41
+00:04:17,720 --> 00:04:20,564
+You're like Kelly Ripa.
+You're like... (MUMBLING)
+
+42
+00:04:20,720 --> 00:04:21,767
+- (ZOE LAUGHS)
+- FRANK: OK.
+
+43
+00:04:21,920 --> 00:04:23,365
+We are still rolling.
+
+44
+00:04:23,520 --> 00:04:24,567
+Hi, I'm Dr. Frank Walton.
+
+45
+00:04:24,720 --> 00:04:27,121
+I am the head researcher
+at the Lazarus Project.
+
+46
+00:04:27,280 --> 00:04:29,965
+- And I am Dr. Zoe McConnell.
+- And welcome to our laboratory.
+
+47
+00:04:30,160 --> 00:04:32,083
+- Welcome to our laboratory.
+- You were so late!
+
+48
+00:04:32,240 --> 00:04:33,287
+- I can do that better.
+- So late.
+
+49
+00:04:33,440 --> 00:04:34,930
+- How we doing?
+- Was that OK?
+
+50
+00:04:35,080 --> 00:04:37,651
+FRANK: <i>This whole process started
+with Zoe's big breakthrough.</i>
+
+51
+00:04:37,800 --> 00:04:41,521
+<i>She bonded fast-growth B-cell tumors,
+which sped up the nerve fiber regrowth.</i>
+
+52
+00:04:41,680 --> 00:04:44,160
+<i>That created the Lazarus serum.</i>
+
+53
+00:04:44,320 --> 00:04:47,927
+<i>Over here, we have Niko to thank for
+this Millennium Falcon-looking thing.</i>
+
+54
+00:04:48,080 --> 00:04:49,366
+<i>This is called the pulse array.</i>
+
+55
+00:04:49,520 --> 00:04:50,806
+(AUDIO FAST-FORWARDING)
+
+56
+00:04:51,680 --> 00:04:53,967
+FRANK: <i>The pulse array
+then uses timed electrical charges</i>
+
+57
+00:04:54,120 --> 00:04:55,920
+- <i>to activate the serum.</i>
+- (EQUIPMENT BUZZING)
+
+58
+00:04:57,320 --> 00:04:58,880
+<i>Then we jump-start the neural reactions</i>
+
+59
+00:04:58,920 --> 00:05:01,924
+<i>by stimulating different parts
+of the brain with electrical charges.</i>
+
+60
+00:05:02,080 --> 00:05:06,529
+<i>This is an articulated arm we developed
+as an extension of the pulse array.</i>
+
+61
+00:05:06,680 --> 00:05:09,286
+<i>This goes into the temporal lobe
+of the brain,</i>
+
+62
+00:05:09,440 --> 00:05:11,488
+<i>the serum flows into the brain,</i>
+
+63
+00:05:11,640 --> 00:05:15,008
+<i>we pull that switch right over there,
+and then we hope for the best.</i>
+
+64
+00:05:15,160 --> 00:05:16,491
+<i>The goal here is simple:</i>
+
+65
+00:05:16,640 --> 00:05:19,962
+<i>To give health care professionals
+more time to do their jobs.</i>
+
+66
+00:05:20,120 --> 00:05:23,647
+<i>To prolong that period
+where you can safely bring someone back,</i>
+
+67
+00:05:23,840 --> 00:05:27,447
+<i>with no cognitive loss,
+no long-term effects.</i>
+
+68
+00:05:27,600 --> 00:05:30,604
+<i>It's about giving everyone
+that second chance they deserve.</i>
+
+69
+00:05:34,240 --> 00:05:36,004
+- (UP-TEMPO MUSIC PLAYS NEARBY)
+- (CLAY MIMICS EXPLOSION)
+
+70
+00:05:36,160 --> 00:05:37,161
+NIKO: You're such a dick.
+
+71
+00:05:37,320 --> 00:05:39,800
+I am the Lord of Catan,
+and I deserve your respect!
+
+72
+00:05:39,960 --> 00:05:42,247
+That is a dick move
+because I have no cards...
+
+73
+00:05:42,440 --> 00:05:44,283
+Hey, guys,
+I don't have any cell service.
+
+74
+00:05:44,440 --> 00:05:47,205
+Um, we don't get much service
+in the sub-basement,
+
+75
+00:05:47,360 --> 00:05:49,761
+but there's a landline on the wall
+if you need it.
+
+76
+00:05:49,920 --> 00:05:51,729
+Oh, no. I'm good, thanks.
+
+77
+00:05:53,600 --> 00:05:56,080
+(SIGHS)
+Documentary girl, man, she is so hot.
+
+78
+00:05:56,240 --> 00:05:58,686
+- Her name's Eva.
+- I don't care what her name is.
+
+79
+00:05:58,840 --> 00:06:02,003
+I'd tap that. You wouldn't tap that?
+
+80
+00:06:02,160 --> 00:06:03,491
+She's all right.
+
+81
+00:06:06,960 --> 00:06:08,610
+CLAY: You're ridiculous.
+
+82
+00:06:08,800 --> 00:06:12,122
+OK, so, um... most of this stuff is...
+
+83
+00:06:12,280 --> 00:06:14,328
+Basically run by me,
+and I do everything.
+
+84
+00:06:15,080 --> 00:06:17,082
+- FRANK: What do you think?
+- ZOE: I mean, does it matter?
+
+85
+00:06:17,240 --> 00:06:19,925
+It's not like we can
+send her home now.
+
+86
+00:06:20,080 --> 00:06:22,731
+Come on.
+This could be a really good thing.
+
+87
+00:06:22,880 --> 00:06:25,281
+- I say we give her a chance.
+- ZOE: She's cute.
+
+88
+00:06:25,440 --> 00:06:28,842
+Yeah, she's gorgeous.
+Super sexy with her red hair...
+
+89
+00:06:29,000 --> 00:06:31,446
+- Get out. You're fired.
+- (LAUGHS)
+
+90
+00:06:32,760 --> 00:06:35,491
+- I love you.
+- <i>Aw...</i>
+
+91
+00:06:36,400 --> 00:06:39,404
+(CRICKETS CHIRPING)
+
+92
+00:06:42,960 --> 00:06:46,601
+(DRAMATIC OPERA MUSIC PLAYS)
+
+93
+00:07:24,880 --> 00:07:27,451
+(WHIRRING)
+
+94
+00:07:30,840 --> 00:07:33,446
+(OPERA MUSIC CONTINUES)
+
+95
+00:07:47,760 --> 00:07:49,728
+(MUSIC CONTINUES)
+
+96
+00:08:04,240 --> 00:08:05,446
+(MUSIC STOPS)
+
+97
+00:08:14,920 --> 00:08:16,888
+- (SQUEALS)
+- (GASPING)
+
+98
+00:08:17,040 --> 00:08:19,247
+- (HYSTERICAL GIGGLING)
+- I'm so sorry. Not funny.
+
+99
+00:08:19,400 --> 00:08:21,050
+I shouldn't have done that. I'm sorry.
+
+100
+00:08:21,200 --> 00:08:22,565
+- No. I didn't...
+- I'm sorry.
+
+101
+00:08:22,720 --> 00:08:23,846
+I didn't mean to scream.
+
+102
+00:08:24,000 --> 00:08:27,209
+A dental darn sounds like something
+a dentist would use, does it not?
+
+103
+00:08:27,400 --> 00:08:29,323
+No, it doesn't.
+You should've known what it was.
+
+104
+00:08:29,480 --> 00:08:31,528
+I wasn't getting as much action
+as you think I was.
+
+105
+00:08:31,680 --> 00:08:34,570
+We were 22. You should've known by then
+that that's what that's for.
+
+106
+00:08:34,720 --> 00:08:37,041
+- It's not like an orthodontic thing.
+- (CHUCKLES)
+
+107
+00:08:38,000 --> 00:08:40,207
+So, um... how are you doing?
+
+108
+00:08:42,080 --> 00:08:43,320
+You know, with everything?
+
+109
+00:08:44,800 --> 00:08:46,245
+Frank?
+
+110
+00:08:48,680 --> 00:08:51,206
+You know, good.
+
+111
+00:08:52,960 --> 00:08:56,123
+It's just, when we got the grant,
+
+112
+00:08:56,280 --> 00:08:59,762
+we decided the wedding and...
+everything else would just be put off.
+
+113
+00:08:59,920 --> 00:09:01,763
+You know?
+This is more important.
+
+114
+00:09:01,920 --> 00:09:04,400
+But that was... three years ago?
+
+115
+00:09:05,040 --> 00:09:07,691
+You look at him, it's like
+he doesn't even remember a time before.
+
+116
+00:09:07,840 --> 00:09:10,730
+It's just all about the work.
+
+117
+00:09:10,880 --> 00:09:15,283
+Yeah, well... maybe it's the universe
+trying to tell you something.
+
+118
+00:09:18,640 --> 00:09:22,565
+Yeah. Finish the damn project, right?
+
+119
+00:09:22,720 --> 00:09:24,848
+- Yeah.
+- Anyway, thank you for the sushi.
+
+120
+00:09:25,040 --> 00:09:26,963
+- No problem.
+- Better get back to work.
+
+121
+00:09:31,320 --> 00:09:32,810
+(SIGHS)
+
+122
+00:09:38,680 --> 00:09:41,081
+(BREATHING SHARPLY)
+
+123
+00:10:08,040 --> 00:10:11,044
+(FISTS POUNDING ON DOOR)
+
+124
+00:10:11,200 --> 00:10:14,647
+- (SCREAMS ECHOING)
+- (POUNDING CONTINUES)
+
+125
+00:10:19,920 --> 00:10:22,287
+- (SCREAMING)
+- (GASPS)
+
+126
+00:10:40,720 --> 00:10:42,449
+FRANK: Hey, lady.
+
+127
+00:10:43,520 --> 00:10:45,249
+Same dream?
+
+128
+00:10:46,720 --> 00:10:48,529
+I'm sorry.
+
+129
+00:10:49,520 --> 00:10:52,683
+Take your time. I'll be in the bed
+when you're ready, OK?
+
+130
+00:10:52,880 --> 00:10:55,281
+- (WHISPERS) Thank you.
+- Snuggle you up.
+
+131
+00:11:17,960 --> 00:11:20,884
+- ZOE: Wait for it.
+- FRANK: OK, that all looks right.
+
+132
+00:11:22,360 --> 00:11:25,807
+ZOE: Yeah, just wait. Right... there.
+
+133
+00:11:25,960 --> 00:11:29,521
+See, something's degrading the
+lipid bi-layer, and it all falls apart.
+
+134
+00:11:29,680 --> 00:11:31,125
+Could be the diffusion barrier.
+
+135
+00:11:32,040 --> 00:11:33,451
+Clay, what did I say
+about smoking in here?
+
+136
+00:11:33,600 --> 00:11:35,011
+Uh, that it's awesome?
+
+137
+00:11:35,160 --> 00:11:37,280
+- You're a jerk.
+- FRANK: Guys, let's not be children.
+
+138
+00:11:37,320 --> 00:11:39,448
+- What's the membrane voltage?
+- Minus 60. Maybe less.
+
+139
+00:11:39,600 --> 00:11:41,921
+FRANK: OK, so we just
+increase the depolarization.
+
+140
+00:11:42,080 --> 00:11:46,324
+- Then that fries our ion channels.
+- (SPUTTERS, COUGHING)
+
+141
+00:11:48,840 --> 00:11:51,571
+(VOICE STRAINS) Not if you introduce
+a potassium-selective insulator
+
+142
+00:11:51,720 --> 00:11:55,281
+into the serum and limit pulse durations
+to about 30 milliseconds. (SHARP INHALE)
+
+143
+00:11:55,480 --> 00:11:58,643
+Give the pH and oxygen tension
+time to snap back.
+
+144
+00:11:58,800 --> 00:11:59,847
+Boom!
+
+145
+00:12:06,000 --> 00:12:07,525
+What? Got shit on my face?
+
+146
+00:12:07,680 --> 00:12:08,806
+Um...
+
+147
+00:12:10,400 --> 00:12:11,640
+I think that might work.
+
+148
+00:12:13,440 --> 00:12:16,011
+- Clay, you're all grown up!
+- CLAY: Yeah! All right!
+
+149
+00:12:16,160 --> 00:12:17,400
+FRANK: Holy shit. Look at this guy.
+
+150
+00:12:17,560 --> 00:12:19,801
+- I can smoke in here now.
+- He can smoke in here now.
+
+151
+00:12:19,960 --> 00:12:23,726
+- ZOE: No, no, no. Give me...
+- FRANK: Let's do this, come on.
+
+152
+00:12:25,160 --> 00:12:28,209
+ZOE: Cataracts in both eyes.
+Probably why they put him down.
+
+153
+00:12:32,880 --> 00:12:35,008
+CLAY: All inputs within range.
+
+154
+00:12:35,160 --> 00:12:38,130
+ZOE: Blood oxygen looks good.
+Serum level optimal.
+
+155
+00:12:39,480 --> 00:12:42,689
+FRANK: OK. Let's do this.
+Start the tone.
+
+156
+00:12:44,000 --> 00:12:46,651
+(FLATLINE TONE)
+
+157
+00:12:47,360 --> 00:12:52,082
+Event one, five kilovolts.
+Pulse in three, two, one.
+
+158
+00:12:52,240 --> 00:12:53,605
+(ELECTRICITY SURGES)
+
+159
+00:12:53,760 --> 00:12:56,331
+(FLATLINE TONE)
+
+160
+00:13:00,960 --> 00:13:01,961
+No effect.
+
+161
+00:13:04,520 --> 00:13:06,602
+Reset the array, 11 kilovolts.
+
+162
+00:13:06,800 --> 00:13:09,929
+- 11 kilovolts. Stand by.
+- (FLATLINE TONE)
+
+163
+00:13:10,080 --> 00:13:14,404
+OK, event two.
+Pulse in three, two, one.
+
+164
+00:13:14,600 --> 00:13:16,284
+(ELECTRICITY SURGES)
+
+165
+00:13:20,440 --> 00:13:22,044
+- (SIGHS)
+- Clay?
+
+166
+00:13:22,200 --> 00:13:23,531
+CLAY: Nothing.
+
+167
+00:13:23,680 --> 00:13:25,842
+- Jesus Christ... What?
+- Oh!
+
+168
+00:13:26,000 --> 00:13:29,800
+- It moved. I-I think it just moved.
+- It moved, or you think it moved?
+
+169
+00:13:29,960 --> 00:13:31,880
+I don't know.
+It did like a twitching thing or...
+
+170
+00:13:31,920 --> 00:13:33,410
+I'm telling you,
+I'm flat across the board.
+
+171
+00:13:33,560 --> 00:13:35,767
+Yeah, it's probably just
+reflex muscle stimulation.
+
+172
+00:13:35,960 --> 00:13:37,803
+No, I saw it. It actually moved.
+
+173
+00:13:38,000 --> 00:13:40,731
+Yeah, that's what muscle stimulation is.
+
+174
+00:13:55,120 --> 00:13:58,567
+I don't know,
+maybe if we up the dosage next time...
+
+175
+00:13:58,720 --> 00:14:01,849
+- (BARKING, SNAPPING)
+- (RAPID BEEPING)
+
+176
+00:14:02,000 --> 00:14:04,207
+- FRANK: Pulse! Clay! Pulse?
+- (SNARLS)
+
+177
+00:14:04,400 --> 00:14:06,289
+(OVERLAPPING SHOUTS)
+
+178
+00:14:06,440 --> 00:14:09,569
+- NIKO: Hey, hey, hey. You're OK.
+- (GROWLING)
+
+179
+00:14:09,720 --> 00:14:12,166
+(HEART MONITOR BEEPS STEADILY)
+
+180
+00:14:12,320 --> 00:14:14,561
+- (NIKO LAUGHING)
+- EVA: Oh, my God.
+
+181
+00:14:17,560 --> 00:14:20,131
+FRANK:
+We're six minutes in and he is golden.
+
+182
+00:14:21,120 --> 00:14:22,929
+- That's weird.
+- What's up?
+
+183
+00:14:23,080 --> 00:14:25,321
+- His cataracts are gone.
+- What are you talking about?
+
+184
+00:14:25,480 --> 00:14:27,360
+He has mature stage five cataracts
+in both eyes.
+
+185
+00:14:27,400 --> 00:14:29,880
+- Yes, I know. Look.
+- Hm.
+
+186
+00:14:30,040 --> 00:14:33,487
+- Could it be the serum?
+- Or... we just cured blindness.
+
+187
+00:14:33,680 --> 00:14:35,762
+Look, guys, it brings up a good point.
+
+188
+00:14:35,920 --> 00:14:37,809
+I don't want anybody
+talking about anything
+
+189
+00:14:37,960 --> 00:14:40,042
+until we know exactly what we have here.
+
+190
+00:14:40,200 --> 00:14:41,201
+Understood?
+
+191
+00:14:43,040 --> 00:14:44,690
+- Clay?
+- Bible.
+
+192
+00:14:44,840 --> 00:14:47,366
+We're gonna take Rocky home with us
+and we'll look after him.
+
+193
+00:14:47,520 --> 00:14:49,887
+- If that's OK.
+- Sure.
+
+194
+00:14:51,520 --> 00:14:53,443
+- (CHEERING)
+- Oh! Whoa!
+
+195
+00:14:53,600 --> 00:14:56,285
+- Hey!
+- (UP-TEMPO BIG BAND MUSIC PLAYING)
+
+196
+00:14:56,440 --> 00:14:59,410
+Um, Eva, put the camera down.
+Put it down.
+
+197
+00:14:59,560 --> 00:15:02,928
+- (OVERLAPPING CHATTER)
+- I really don't want this to be filmed.
+
+198
+00:15:04,360 --> 00:15:05,691
+All right.
+
+199
+00:15:05,880 --> 00:15:07,325
+Cheers.
+
+200
+00:15:13,040 --> 00:15:15,327
+(MUSIC CONTINUES, MUTED)
+
+201
+00:15:18,880 --> 00:15:22,043
+- (SLOW JAZZ SONG PLAYING)
+- Here you go.
+
+202
+00:15:25,200 --> 00:15:26,929
+He has no interest.
+
+203
+00:15:28,600 --> 00:15:30,841
+- What's his name again?
+- Rocky.
+
+204
+00:15:31,640 --> 00:15:33,847
+- Rocky.
+- FRANK: The ultimate underdog.
+
+205
+00:15:34,000 --> 00:15:36,002
+Back from the dead, Rocky.
+
+206
+00:15:36,800 --> 00:15:39,087
+ZOE: It's not just me, right?
+He's a little weird.
+
+207
+00:15:39,240 --> 00:15:42,403
+Yeah, I think he's in shock right now,
+you know?
+
+208
+00:15:42,560 --> 00:15:46,007
+It's gonna take him a few days to
+sort of re-stitch those neural pathways,
+
+209
+00:15:46,160 --> 00:15:47,969
+and he'll be good to go.
+
+210
+00:15:48,120 --> 00:15:49,690
+Yeah.
+
+211
+00:15:51,080 --> 00:15:54,562
+You don't... You don't seem convinced.
+What's going on?
+
+212
+00:15:54,760 --> 00:15:56,330
+I don't know. I mean...
+
+213
+00:15:57,320 --> 00:16:00,642
+...what if we ripped him
+out of doggie heaven or something?
+
+214
+00:16:03,120 --> 00:16:04,531
+(LAUGHING)
+
+215
+00:16:04,680 --> 00:16:06,887
+You know what I mean. What if...
+
+216
+00:16:07,040 --> 00:16:10,567
+We don't know if he wanted to come back.
+We just took him.
+
+217
+00:16:10,720 --> 00:16:13,451
+What is it with you?
+I get two glasses of red wine in you
+
+218
+00:16:13,600 --> 00:16:15,602
+and the Catholic girl comes out and...
+
+219
+00:16:17,960 --> 00:16:20,406
+I'm just saying,
+if we're gonna be asking big questions,
+
+220
+00:16:20,560 --> 00:16:22,608
+we have to be ready for the answers.
+
+221
+00:16:25,480 --> 00:16:27,687
+Come here. Come here.
+
+222
+00:16:27,880 --> 00:16:29,370
+Look... (SIGHS)
+
+223
+00:16:30,880 --> 00:16:34,680
+I know this is... strange, you know?
+
+224
+00:16:34,840 --> 00:16:39,084
+And what we're doing here could be...
+considered questionable.
+
+225
+00:16:40,280 --> 00:16:41,361
+Yeah.
+
+226
+00:16:41,560 --> 00:16:44,040
+But we're gonna help
+a lot of people with this work.
+
+227
+00:16:45,040 --> 00:16:47,202
+It's gonna be worth it, OK?
+
+228
+00:16:47,400 --> 00:16:48,845
+OK.
+
+229
+00:17:32,840 --> 00:17:35,446
+(DOOR SQUEAKS SOFTLY)
+
+230
+00:18:05,320 --> 00:18:08,290
+EVA: (KISSING) Rocky!
+(WHISTLES) Get the ball.
+
+231
+00:18:11,120 --> 00:18:13,930
+Hey, guys, do you think he remembers?
+Dying?
+
+232
+00:18:14,080 --> 00:18:17,129
+Mm...
+Dogs don't have memories, so, no.
+
+233
+00:18:17,320 --> 00:18:19,926
+- NIKO: Dogs definitely have memories.
+- CLAY: Dogs form associations.
+
+234
+00:18:20,080 --> 00:18:22,447
+Leash means walk. Keys mean car ride.
+It's not the same thing, bro.
+
+235
+00:18:22,600 --> 00:18:26,082
+That's what a memory is, man.
+It's like... No, we're settling this.
+
+236
+00:18:26,240 --> 00:18:28,960
+- Settle it. Let's look it up, bitch.
+- I don't wanna hear your shit.
+
+237
+00:18:29,000 --> 00:18:31,128
+OK. I'm cool with that.
+
+238
+00:18:31,280 --> 00:18:34,841
+EVA: Hey, Rocky, what do you think?
+Did you see a big white light? Huh?
+
+239
+00:18:35,000 --> 00:18:37,241
+You know,
+that part's actually true.
+
+240
+00:18:37,400 --> 00:18:40,370
+- You know what the pineal gland is?
+- No.
+
+241
+00:18:40,520 --> 00:18:44,002
+It produces DMT, which is
+the base compound for our serum.
+
+242
+00:18:44,160 --> 00:18:46,731
+Basically, nobody knows why,
+but the moment you die,
+
+243
+00:18:46,880 --> 00:18:51,283
+right then, your brain just floods your
+system with this massive blast of DMT,
+
+244
+00:18:51,480 --> 00:18:54,006
+which is the most potent psychedelic
+on the planet.
+
+245
+00:18:54,160 --> 00:18:57,607
+And when you think you're seeing
+the light at the end of the tunnel,
+
+246
+00:18:57,760 --> 00:19:00,969
+- or the blessed Virgin Mary, um...
+- (GIGGLES)
+
+247
+00:19:01,160 --> 00:19:02,400
+- FRANK: Did I do that the wrong way?
+- Mm-mm.
+
+248
+00:19:02,560 --> 00:19:06,042
+Anyway, it's just a big trip that
+you're having, really, it's all it is.
+
+249
+00:19:06,840 --> 00:19:09,161
+- I disagree. I do.
+- FRANK: Oh, you disagree, really?
+
+250
+00:19:09,320 --> 00:19:12,529
+- We've had this discussion before.
+- Yeah, I just think you can't discount
+
+251
+00:19:12,680 --> 00:19:14,887
+every near-death experience
+based on one theory.
+
+252
+00:19:15,040 --> 00:19:16,610
+FRANK: Of course.
+But if you're going to make a bet,
+
+253
+00:19:16,800 --> 00:19:18,768
+why not bet on a scientific theory
+
+254
+00:19:18,920 --> 00:19:22,481
+as opposed to, you know,
+St. Peter and the pearly white gates?
+
+255
+00:19:22,680 --> 00:19:24,523
+- Why?
+- Because one is empirical and one is,
+
+256
+00:19:24,720 --> 00:19:26,563
+you know, it's a cute story, but it's...
+
+257
+00:19:26,720 --> 00:19:29,640
+No, it's not. I mean, whatever you
+wanna call it, the soul, consciousness,
+
+258
+00:19:29,680 --> 00:19:34,288
+it's just neural impulses firing in
+your brain, right? That makes it energy.
+
+259
+00:19:34,480 --> 00:19:36,005
+Energy can't be created or destroyed,
+
+260
+00:19:36,160 --> 00:19:38,606
+it can just be transformed
+from one thing to another.
+
+261
+00:19:38,760 --> 00:19:41,286
+So that's not superstition,
+that's science.
+
+262
+00:19:41,440 --> 00:19:42,930
+EVA: So what's your theory?
+
+263
+00:19:43,640 --> 00:19:48,407
+I think, maybe when we die, the DMT
+is there to help our souls move on,
+
+264
+00:19:48,560 --> 00:19:50,483
+to get them wherever
+they're supposed to be.
+
+265
+00:19:50,640 --> 00:19:55,601
+- You know, open the door for them.
+- So the DMT is like a doorman
+
+266
+00:19:55,760 --> 00:19:57,683
+who is like,
+"Here. Here's life, here's death.
+
+267
+00:19:57,880 --> 00:19:59,484
+I'm gonna open this up
+and usher you through."
+
+268
+00:19:59,640 --> 00:20:01,005
+- Maybe.
+- And you give him a tip.
+
+269
+00:20:01,160 --> 00:20:03,527
+I just think it's arrogant
+to reduce everything that happens
+
+270
+00:20:03,720 --> 00:20:06,769
+at the moment of death
+to one chemical equation.
+
+271
+00:20:06,920 --> 00:20:08,410
+The fact is, we just don't know.
+
+272
+00:20:08,600 --> 00:20:10,648
+Yet.
+
+273
+00:20:13,200 --> 00:20:14,850
+(MACHINE WHIRRING)
+
+274
+00:20:19,960 --> 00:20:22,531
+(MACHINE CYCLING)
+
+275
+00:20:23,360 --> 00:20:25,966
+- FRANK: Whoa. What's the HDR?
+- CLAY: Uh, 2.2 seconds.
+
+276
+00:20:26,160 --> 00:20:27,650
+That's well within levels.
+
+277
+00:20:29,400 --> 00:20:31,289
+CLAY: Whoa. That's weird.
+
+278
+00:20:31,440 --> 00:20:33,283
+The serum is still present
+in the bloodstream.
+
+279
+00:20:33,440 --> 00:20:35,761
+Yeah, it's supposed to dissipate within,
+like, a few hours.
+
+280
+00:20:35,960 --> 00:20:38,327
+Man, there's some crazy activity
+going on in the brain stem.
+
+281
+00:20:38,480 --> 00:20:40,847
+Are you guys sure you wanna
+keep this thing in your house?
+
+282
+00:20:41,000 --> 00:20:43,287
+- FRANK: Why?
+- One of the symptoms of hypothyroidism
+
+283
+00:20:43,440 --> 00:20:44,805
+is extreme aggression.
+
+284
+00:20:44,960 --> 00:20:47,167
+This thing could
+go Cujo here in a hurry.
+
+285
+00:20:53,080 --> 00:20:55,242
+(MID-TEMPO JAZZ PLAYING)
+
+286
+00:21:10,240 --> 00:21:11,366
+(WHINING)
+
+287
+00:21:12,880 --> 00:21:15,247
+It's alive! It's alive!
+
+288
+00:21:22,760 --> 00:21:24,762
+(JAZZ MUSIC CONTINUES)
+
+289
+00:21:31,200 --> 00:21:34,886
+(SCATTING SOFTLY)
+
+290
+00:21:36,320 --> 00:21:39,642
+Come here. (SIGHS)
+
+291
+00:21:41,920 --> 00:21:43,524
+You are my friend.
+
+292
+00:21:43,680 --> 00:21:45,569
+- (LOUD CRASHING)
+- (RECORD SCREECHES)
+
+293
+00:21:45,720 --> 00:21:47,370
+Shit!
+
+294
+00:21:49,840 --> 00:21:51,922
+(CAN RATTLES)
+
+295
+00:21:56,600 --> 00:21:58,011
+Niko?
+
+296
+00:21:58,160 --> 00:22:00,162
+(SILENCE)
+
+297
+00:22:05,400 --> 00:22:06,561
+Whoa.
+
+298
+00:22:10,760 --> 00:22:12,728
+- (WHISPERS) Shit.
+- (SOFT GROAN)
+
+299
+00:22:16,120 --> 00:22:17,360
+Rocky?
+
+300
+00:22:19,760 --> 00:22:21,125
+Here, boy.
+
+301
+00:22:22,640 --> 00:22:24,563
+(WHISTLES)
+
+302
+00:22:24,720 --> 00:22:28,042
+- (WHISPERS) Come here, you little shit.
+- (SOFT GROWL)
+
+303
+00:22:33,120 --> 00:22:35,930
+- It's OK, bud.
+- (SOFT GROWL)
+
+304
+00:22:36,120 --> 00:22:37,849
+You're just freaking out, man.
+
+305
+00:22:48,800 --> 00:22:51,326
+- (BARKS, GROWLS)
+- (YELLS)
+
+306
+00:22:51,480 --> 00:22:54,051
+(PANTING)
+
+307
+00:22:54,200 --> 00:22:57,602
+(SOFT FOOTFALLS)
+
+308
+00:22:57,760 --> 00:22:59,046
+(SOFT GROWL)
+
+309
+00:23:01,960 --> 00:23:03,928
+- (PANTING)
+- (SNARLING)
+
+310
+00:23:04,080 --> 00:23:06,924
+- Shit. OK, OK, OK.
+- (SNARLING CONTINUES)
+
+311
+00:23:07,080 --> 00:23:08,844
+(PANTING)
+
+312
+00:23:09,000 --> 00:23:11,685
+If you ask me, I think we should
+put that thing down, now.
+
+313
+00:23:11,840 --> 00:23:14,605
+- At least you're not overreacting.
+- Overreacting, my ass!
+
+314
+00:23:14,760 --> 00:23:16,920
+OK? There's something
+seriously wrong with that animal.
+
+315
+00:23:17,080 --> 00:23:19,128
+(STAMMERS) It's like
+it was possessed or something.
+
+316
+00:23:19,280 --> 00:23:22,602
+- How long were you out of the room?
+- I don't know, 20 seconds, tops.
+
+317
+00:23:22,760 --> 00:23:25,604
+- And no, I wasn't smoking.
+- EVA: Hey, guys?
+
+318
+00:23:27,240 --> 00:23:29,971
+This stuff was on the top shelf,
+and even if you left the cage open,
+
+319
+00:23:30,120 --> 00:23:32,202
+there's no way he could've got up here.
+
+320
+00:23:41,640 --> 00:23:44,723
+OK, so far, we've seen
+three distinct phases of development.
+
+321
+00:23:44,880 --> 00:23:50,011
+Phase one: Subject is resuscitated
+through an infusion of LAZ-510 serum
+
+322
+00:23:50,160 --> 00:23:52,686
+and targeted electrical stimulation.
+
+323
+00:23:52,840 --> 00:23:57,129
+Phase two: The serum remains in
+the bloodstream longer than anticipated.
+
+324
+00:23:57,280 --> 00:23:58,884
+Phase three: Metabolic functions
+
+325
+00:23:59,080 --> 00:24:01,651
+produce a potentially disruptive
+hormonal imbalance.
+
+326
+00:24:01,800 --> 00:24:05,725
+Subject shows signs of confusion,
+loss of appetite,
+
+327
+00:24:05,920 --> 00:24:08,321
+and marked signs of aggression.
+
+328
+00:24:08,480 --> 00:24:12,041
+Now we're in phase four, I guess.
+
+329
+00:24:12,200 --> 00:24:15,010
+The subject's brain
+continues to create new neural pathways
+
+330
+00:24:15,160 --> 00:24:18,084
+at an unprecedented and alarming rate.
+
+331
+00:24:19,560 --> 00:24:20,561
+(SIGHS)
+
+332
+00:24:23,280 --> 00:24:25,931
+Jesus! Oh, my God,
+you scared the shit out of me.
+
+333
+00:24:26,920 --> 00:24:28,809
+- You coming to bed?
+- (EXHALES)
+
+334
+00:24:28,960 --> 00:24:31,850
+Yeah, I'm kind of in the middle
+of something. I'll be there in a minute.
+
+335
+00:24:34,160 --> 00:24:35,605
+OK.
+
+336
+00:24:40,880 --> 00:24:43,326
+What the hell is going on here?
+
+337
+00:24:53,280 --> 00:24:55,886
+Dr. Walton,
+can you hold on for a second?
+
+338
+00:24:56,040 --> 00:24:57,610
+- Uh, yeah.
+- I'll meet you downstairs.
+
+339
+00:24:57,760 --> 00:24:59,046
+Sure.
+
+340
+00:24:59,200 --> 00:25:00,725
+The dean needs to talk to you.
+
+341
+00:25:00,880 --> 00:25:04,282
+WOMAN: Honestly, did you for one second
+consider the implications of this?
+
+342
+00:25:04,480 --> 00:25:06,642
+Eighty-three percent of our student body
+identify as religious.
+
+343
+00:25:06,800 --> 00:25:10,691
+You throw in the alumni donors,
+that number's more like 90 percent.
+
+344
+00:25:10,840 --> 00:25:13,605
+Don't play the religious card.
+This has nothing to do with religion.
+
+345
+00:25:13,760 --> 00:25:16,923
+You were the one who decided
+to do an unsanctioned experiment,
+
+346
+00:25:17,080 --> 00:25:18,889
+in direct violation of the Review Board
+
+347
+00:25:19,040 --> 00:25:20,963
+and the grant agreement
+which you signed.
+
+348
+00:25:21,160 --> 00:25:23,561
+Which says, you were
+going to "study new methods
+
+349
+00:25:23,720 --> 00:25:26,200
+of arresting neural decay
+in coma patients."
+
+350
+00:25:26,360 --> 00:25:28,567
+Yes, exactly! That is how it started.
+
+351
+00:25:28,720 --> 00:25:31,371
+But how do you think that penicillin
+was discovered? Or Teflon?
+
+352
+00:25:31,520 --> 00:25:34,569
+Or even Coca-Cola, for that matter?
+Accidents that happen in the lab.
+
+353
+00:25:34,760 --> 00:25:37,001
+Accidents that lead
+to new lines of inquiry.
+
+354
+00:25:37,160 --> 00:25:41,563
+You are a doctor, you understand
+how science works. It's by adapting.
+
+355
+00:25:41,720 --> 00:25:45,930
+You're not adapting. You are playing God
+with a bunch of dead animals.
+
+356
+00:25:46,080 --> 00:25:47,844
+You had to know this was coming.
+
+357
+00:25:53,360 --> 00:25:55,362
+How do you know all this?
+
+358
+00:25:57,960 --> 00:26:00,042
+No way you could've known
+about those animal trials.
+
+359
+00:26:00,680 --> 00:26:04,401
+We have the right to review any material
+that's posted to our server,
+
+360
+00:26:04,560 --> 00:26:06,767
+- including video footage.
+- Bullshit.
+
+361
+00:26:06,960 --> 00:26:09,725
+Somebody fed this to you, specifically
+to get this project shut down.
+
+362
+00:26:09,920 --> 00:26:11,285
+Was it one of your big pharma friends?
+
+363
+00:26:11,440 --> 00:26:15,331
+Did somebody donate a medical wing
+or a new student union?
+
+364
+00:26:15,480 --> 00:26:16,527
+Who was it?
+
+365
+00:26:35,000 --> 00:26:37,651
+Pull the hard drives,
+any security key cards.
+
+366
+00:26:37,800 --> 00:26:39,962
+- Hey...
+- MAN: Any samples.
+
+367
+00:26:40,160 --> 00:26:42,686
+- Any and all samples you may find.
+- ZOE: What is this?
+
+368
+00:26:42,840 --> 00:26:45,241
+- Oh, you must be Dr. McConnell.
+- Yes.
+
+369
+00:26:45,400 --> 00:26:47,681
+It's a pleasure to meet you.
+I've been a fan of your work.
+
+370
+00:26:47,720 --> 00:26:49,643
+Effective immediately,
+all research material
+
+371
+00:26:49,800 --> 00:26:51,290
+is considered
+the sole intellectual property
+
+372
+00:26:51,440 --> 00:26:53,408
+of Crylonis Pharmaceutical
+and its subsidiaries.
+
+373
+00:26:53,560 --> 00:26:56,803
+- Stop. What?
+- Hey, that's personal property, man!
+
+374
+00:26:56,960 --> 00:26:58,880
+I don't understand.
+We're operating under a grant
+
+375
+00:26:58,960 --> 00:27:01,361
+- from Werner-Goss Biotechnical.
+- And as of two hours ago,
+
+376
+00:27:01,520 --> 00:27:04,603
+Crylonis Industries became the
+principal shareholder in Werner-Goss.
+
+377
+00:27:04,760 --> 00:27:07,764
+- No, you can't do this.
+- Pursuant to the grant agreement
+
+378
+00:27:07,920 --> 00:27:11,686
+signed by Frank Walton, "any violation
+of lACUC Review Board standards
+
+379
+00:27:11,840 --> 00:27:13,649
+shall herein negate
+all claims of ownership
+
+380
+00:27:13,800 --> 00:27:16,963
+and revert intellectual property rights
+back to the holding corporation."
+
+381
+00:27:17,120 --> 00:27:19,726
+- Which is, in this case, us.
+- (SIGHING)
+
+382
+00:27:19,880 --> 00:27:21,609
+I'm sure it must be difficult for you,
+
+383
+00:27:21,760 --> 00:27:23,760
+but there's an important lesson
+to be learned here:
+
+384
+00:27:24,040 --> 00:27:26,441
+There's always a consequence
+for breaking the rules.
+
+385
+00:27:29,440 --> 00:27:32,649
+- What happened?
+- They took everything.
+
+386
+00:27:32,800 --> 00:27:34,245
+(SIGHS)
+
+387
+00:27:38,120 --> 00:27:40,282
+ZOE: You have to admit
+it's quite the coincidence.
+
+388
+00:27:40,440 --> 00:27:43,444
+You show up out of nowhere,
+videotape everything, and then poof,
+
+389
+00:27:43,640 --> 00:27:45,722
+they take it all,
+including our backup data.
+
+390
+00:27:45,880 --> 00:27:48,850
+Hang on. We made her keep all the
+footage in the lab. It's not her fault.
+
+391
+00:27:49,000 --> 00:27:50,729
+We lost everything.
+
+392
+00:27:50,880 --> 00:27:54,043
+Four years of our lives,
+our reputations, everything.
+
+393
+00:27:54,200 --> 00:27:56,726
+If it's not her, then please tell me,
+what the hell happened?
+
+394
+00:27:56,880 --> 00:27:59,201
+If they wanted the serum,
+why didn't they just hire us?
+
+395
+00:27:59,400 --> 00:28:01,926
+I mean, let's imagine for a second
+that you're Crylonis, OK?
+
+396
+00:28:02,080 --> 00:28:03,844
+And you find out
+about the Lazarus serum.
+
+397
+00:28:04,000 --> 00:28:05,889
+You realize this thing is a gold mine,
+
+398
+00:28:06,080 --> 00:28:08,686
+and you also realize
+that Werner-Goss sponsored it.
+
+399
+00:28:08,840 --> 00:28:11,207
+So you buy Werner-Goss,
+that's the first thing right there.
+
+400
+00:28:11,360 --> 00:28:14,523
+Then you realize all is takes is
+one anonymous call to the Review Board,
+
+401
+00:28:14,680 --> 00:28:17,331
+and all of a sudden
+you own everything in that lab.
+
+402
+00:28:17,480 --> 00:28:18,527
+You have the legal rights.
+
+403
+00:28:18,680 --> 00:28:20,921
+Suddenly, you're not
+splitting the profits anymore.
+
+404
+00:28:21,080 --> 00:28:22,923
+- All that money is yours.
+- (SCOFFS)
+
+405
+00:28:23,080 --> 00:28:25,401
+Come on.
+They're not gonna spend $50 million
+
+406
+00:28:25,560 --> 00:28:28,211
+just to get our serum, right?
+
+407
+00:28:28,360 --> 00:28:29,964
+(SIGHS)
+
+408
+00:28:34,840 --> 00:28:37,764
+We're gonna duplicate the experiment.
+It's the only way.
+
+409
+00:28:37,920 --> 00:28:40,366
+- You're joking, right?
+- What, we're gonna walk away now?
+
+410
+00:28:40,520 --> 00:28:42,921
+We have no proof. No one's ever
+gonna believe that it was us.
+
+411
+00:28:43,080 --> 00:28:45,208
+We're never gonna have
+another chance at this, OK?
+
+412
+00:28:45,360 --> 00:28:47,647
+Look, they're not gonna start
+cleaning the lab till tomorrow, right?
+
+413
+00:28:47,800 --> 00:28:49,609
+That gives us at least,
+what, like 12 hours?
+
+414
+00:28:49,760 --> 00:28:52,047
+We break in there,
+we duplicate the experiment.
+
+415
+00:28:52,200 --> 00:28:54,282
+You film it,
+and we take back what's ours.
+
+416
+00:28:54,440 --> 00:28:57,125
+Duplicate it how?
+I mean, they took all the serum.
+
+417
+00:28:59,680 --> 00:29:01,330
+We figured, just in case.
+
+418
+00:29:02,120 --> 00:29:04,600
+The lab is on a time lock,
+there is only one security guard,
+
+419
+00:29:04,800 --> 00:29:06,450
+we know exactly what his route is.
+
+420
+00:29:06,640 --> 00:29:07,971
+This is absolutely doable.
+
+421
+00:29:08,120 --> 00:29:10,487
+And how are we supposed to get in?
+They took our key cards.
+
+422
+00:29:10,680 --> 00:29:12,170
+Um...
+
+423
+00:29:14,760 --> 00:29:16,410
+Not all of them.
+
+424
+00:29:28,320 --> 00:29:29,924
+GUARD: Working late?
+
+425
+00:29:30,120 --> 00:29:33,124
+Dr. Jackson wants me to take him in
+for overnight observation.
+
+426
+00:29:33,280 --> 00:29:35,442
+Just the way I wanted
+to spend my Friday night.
+
+427
+00:29:36,280 --> 00:29:39,124
+- GUARD: You know where you're going?
+- Sure do.
+
+428
+00:29:44,240 --> 00:29:46,004
+(DOOR RATTLING)
+
+429
+00:29:58,840 --> 00:30:02,845
+Look, if you get caught here,
+you're gonna get expelled, or worse,
+
+430
+00:30:03,000 --> 00:30:05,731
+so no one's gonna blame you
+if you wanna take off now.
+
+431
+00:30:06,600 --> 00:30:07,931
+I know.
+
+432
+00:30:38,120 --> 00:30:39,724
+(MURMURS INDISTINCTLY)
+
+433
+00:30:51,720 --> 00:30:54,963
+- How's it looking?
+- On a scale of one to shitty,
+
+434
+00:30:55,160 --> 00:30:56,844
+their security system is shitty.
+
+435
+00:30:57,040 --> 00:30:59,122
+Great. Can we just loop that?
+
+436
+00:31:00,160 --> 00:31:02,527
+- Loop it?
+- Yeah, like they do on TV.
+
+437
+00:31:03,600 --> 00:31:07,491
+Or I could just stop it from recording.
+It's not like he's gonna notice.
+
+438
+00:31:07,640 --> 00:31:09,688
+That works.
+
+439
+00:31:09,840 --> 00:31:11,808
+- "You're amazing, Niko."
+- You're amazing, Niko.
+
+440
+00:31:14,240 --> 00:31:15,287
+Thank you, Zoe.
+
+441
+00:31:28,320 --> 00:31:29,321
+Dog.
+
+442
+00:31:29,920 --> 00:31:31,410
+(AIR HISSING)
+
+443
+00:31:33,480 --> 00:31:34,891
+- (BARKS)
+- FRANK: All right, Eva, you rolling?
+
+444
+00:31:35,080 --> 00:31:37,321
+- EVA: Yeah, rolling.
+- FRANK: OK, Clay, how we doing?
+
+445
+00:31:37,480 --> 00:31:38,560
+CLAY: Cells appear healthy.
+
+446
+00:31:38,640 --> 00:31:42,770
+- Full diffusion in 30.
+- OK. I need 45cc's Trimexialin.
+
+447
+00:31:42,960 --> 00:31:45,008
+- Niko, how you doing?
+- Uh, neural overlay synced.
+
+448
+00:31:45,160 --> 00:31:46,685
+Capacitors charged.
+Ready when you are.
+
+449
+00:31:46,880 --> 00:31:48,370
+Serum blood ratio is 6.8.
+
+450
+00:31:48,520 --> 00:31:51,763
+- Oxygen levels look good.
+- Great. Check on the guard, please.
+
+451
+00:31:51,920 --> 00:31:53,081
+EVA: Yeah, he's still there.
+
+452
+00:31:55,360 --> 00:31:56,964
+OK, let's make some history.
+
+453
+00:31:57,800 --> 00:31:58,847
+Again.
+
+454
+00:31:59,840 --> 00:32:00,966
+You wanna do the honors?
+
+455
+00:32:02,120 --> 00:32:06,887
+Event one, 11 kilowatts,
+in three, two, one.
+
+456
+00:32:07,040 --> 00:32:08,769
+- (ELECTRICITY SURGES)
+- (THUDDING)
+
+457
+00:32:09,600 --> 00:32:10,601
+CLAY: I didn't do it.
+
+458
+00:32:10,760 --> 00:32:12,683
+FRANK:
+Shit. Somebody flipped the breaker.
+
+459
+00:32:14,640 --> 00:32:16,688
+- Zoe!
+- (INSTRUMENTS CLATTERING)
+
+460
+00:32:19,480 --> 00:32:22,245
+Sweetie? No pulse! No pulse!
+She's been electrocuted.
+
+461
+00:32:22,400 --> 00:32:25,404
+- Get me an adrenalin shot right now!
+- EVA: What can I do? What can I do?
+
+462
+00:32:25,560 --> 00:32:27,608
+- FRANK: Come on, Zoe!
+- EVA: What can I...?
+
+463
+00:32:31,600 --> 00:32:32,601
+Here you go.
+
+464
+00:32:40,200 --> 00:32:41,645
+(GRUNTS)
+
+465
+00:32:44,640 --> 00:32:46,642
+No pulse. No pulse. OK.
+
+466
+00:32:46,800 --> 00:32:49,121
+- I need the defibrillator right now.
+- I got it, I got it.
+
+467
+00:32:49,320 --> 00:32:51,049
+- All right, move her off the grate.
+- OK.
+
+468
+00:32:51,200 --> 00:32:52,247
+One, two, three!
+
+469
+00:32:52,400 --> 00:32:54,562
+OK. Shit.
+
+470
+00:32:54,720 --> 00:32:56,643
+(FRANK MUTTERS INDISTINCTLY)
+
+471
+00:32:57,640 --> 00:32:58,880
+- 200 joules!
+- 200?
+
+472
+00:32:59,080 --> 00:33:01,367
+- Yeah.
+- (DEFIBRILLATOR CHARGING)
+
+473
+00:33:01,520 --> 00:33:03,841
+- Clear!
+- (PADDLES SURGING)
+
+474
+00:33:06,120 --> 00:33:08,168
+Sweetheart? There's no pulse.
+There's no pulse.
+
+475
+00:33:08,320 --> 00:33:10,402
+- Clay, 360 joules.
+- Way too high.
+
+476
+00:33:10,560 --> 00:33:13,769
+- 360! 360 joules! Do it!
+- (BUTTONS BEEPING)
+
+477
+00:33:13,920 --> 00:33:16,127
+- (DEFIBRILLATOR CHARGING)
+- Come on.
+
+478
+00:33:18,520 --> 00:33:19,931
+- Clear!
+- (PADDLES SURGING)
+
+479
+00:33:21,240 --> 00:33:24,210
+(VOICE BREAKING)
+No pulse. Come on, Zoe. Come on!
+
+480
+00:33:24,360 --> 00:33:26,647
+Come on! Come on!
+
+481
+00:33:26,800 --> 00:33:27,847
+(PANTING)
+
+482
+00:33:28,840 --> 00:33:29,841
+Come on, come on.
+
+483
+00:33:34,440 --> 00:33:35,930
+Come on, sweetie.
+
+484
+00:33:36,080 --> 00:33:38,481
+Come on! (CRYING) Come on.
+
+485
+00:34:20,040 --> 00:34:21,405
+CLAY: Frank, what are you doing?
+
+486
+00:34:23,520 --> 00:34:27,366
+- No! No! Absolutely not. No.
+- NIKO: Whoa... Whoa, whoa, whoa. Whoa.
+
+487
+00:34:28,360 --> 00:34:30,000
+Can we just talk about this a second,
+man?
+
+488
+00:34:31,320 --> 00:34:34,608
+There's nothing to talk about.
+The serum works, we know it works.
+
+489
+00:34:34,800 --> 00:34:36,848
+Yeah, but what if she comes back
+all messed up like the dog?
+
+490
+00:34:37,000 --> 00:34:39,731
+Not gonna happen! I'm gonna adjust
+the dosage and tailor the levels.
+
+491
+00:34:39,880 --> 00:34:41,848
+- It'll be fine.
+- Frank, I want her back, too,
+
+492
+00:34:42,000 --> 00:34:44,571
+but if the cops come
+and we're cutting up a human body,
+
+493
+00:34:44,720 --> 00:34:47,371
+- we're going to jail, all of us.
+- Do you think I care about jail?
+
+494
+00:34:47,560 --> 00:34:49,961
+- Frank, this isn't some lab experiment.
+- I know!
+
+495
+00:34:50,120 --> 00:34:52,930
+This is a person. You're talking about
+bringing someone back from the dead.
+
+496
+00:34:53,080 --> 00:34:55,367
+- We've done it before. It's gonna work.
+- EVA: Not like this.
+
+497
+00:34:55,520 --> 00:34:59,969
+I am so sorry, but this is
+crossing a line. This is a human being!
+
+498
+00:35:00,960 --> 00:35:04,362
+Fine. Get outta here.
+I'm gonna do it myself.
+
+499
+00:35:05,160 --> 00:35:07,731
+- Frank, come on, man.
+- I am not gonna lose her.
+
+500
+00:35:09,240 --> 00:35:10,651
+Not like this.
+
+501
+00:35:18,520 --> 00:35:21,091
+(FRANK BREATHING HEAVILY)
+
+502
+00:35:38,840 --> 00:35:40,842
+Thank you. Thank you.
+
+503
+00:35:44,800 --> 00:35:46,131
+I need you to pull the switch.
+
+504
+00:36:02,680 --> 00:36:03,681
+(FRANK GRUNTS)
+
+505
+00:36:07,240 --> 00:36:11,404
+FRANK: (PANTING) Niko, We good?
+
+506
+00:36:11,600 --> 00:36:13,170
+Half of this stuff is fried.
+I can't read...
+
+507
+00:36:13,320 --> 00:36:14,606
+FRANK: Niko, are we good?
+
+508
+00:36:15,800 --> 00:36:17,848
+- Yeah, we're good.
+- OK.
+
+509
+00:36:18,000 --> 00:36:21,243
+Clay, tone. Starting event one,
+9.5 kilovolts.
+
+510
+00:36:21,400 --> 00:36:23,129
+- (FLATLINE TONE)
+- Here we go.
+
+511
+00:36:23,320 --> 00:36:26,449
+Three, two, one.
+
+512
+00:36:26,600 --> 00:36:27,886
+(ELECTRICITY SURGES)
+
+513
+00:36:28,080 --> 00:36:29,206
+(FRANK GRUNTS)
+
+514
+00:36:31,600 --> 00:36:34,080
+- Clay.
+- I got nothing.
+
+515
+00:36:35,000 --> 00:36:36,684
+We're going again, 13 kilovolts.
+
+516
+00:36:36,880 --> 00:36:39,087
+- That's gonna fry...
+- Do it right now, 13 kilovolts.
+
+517
+00:36:40,320 --> 00:36:42,129
+Starting event two.
+
+518
+00:36:42,280 --> 00:36:45,363
+- (FLATLINE TONE)
+- Here we go in three, two, one.
+
+519
+00:36:45,520 --> 00:36:47,170
+(ELECTRICITY SURGES)
+
+520
+00:36:48,360 --> 00:36:49,361
+(FRANK GRUNTS)
+
+521
+00:36:49,560 --> 00:36:50,561
+Clay.
+
+522
+00:36:55,080 --> 00:36:58,163
+- NIKO: Where's the guard?
+- Who cares? We're going again.
+
+523
+00:36:58,360 --> 00:36:59,885
+- Reset the array.
+- Where's the guard?
+
+524
+00:37:00,880 --> 00:37:03,042
+- CLAY: Find the guard, Niko!
+- I need you. Going 15 kilovolts.
+
+525
+00:37:03,240 --> 00:37:04,321
+Just hold on! Wait.
+
+526
+00:37:04,480 --> 00:37:06,482
+(KEYS JINGLING)
+
+527
+00:37:07,920 --> 00:37:08,921
+He's coming.
+
+528
+00:37:10,080 --> 00:37:12,242
+- What is...
+- Can't help her in jail, all right?
+
+529
+00:37:12,400 --> 00:37:13,401
+All right? Let's go.
+
+530
+00:37:13,560 --> 00:37:15,050
+FRANK: Shit.
+
+531
+00:37:17,120 --> 00:37:19,043
+- CLAY: Come on.
+- FRANK: Shit.
+
+532
+00:37:21,760 --> 00:37:23,603
+- CLAY: Careful.
+- All right. We're good, we're good.
+
+533
+00:37:23,800 --> 00:37:25,325
+Damn it. He's coming.
+
+534
+00:37:27,080 --> 00:37:30,004
+(FOOTSTEPS APPROACHING)
+
+535
+00:37:41,760 --> 00:37:44,684
+(KEYS JINGLING)
+
+536
+00:37:44,840 --> 00:37:47,969
+(FOOTSTEPS CONTINUE)
+
+537
+00:37:54,760 --> 00:37:57,047
+(DOOR OPENS IN DISTANCE)
+
+538
+00:38:06,480 --> 00:38:08,721
+(DOOR SQUEAKING)
+
+539
+00:38:26,400 --> 00:38:28,721
+Holy shit.
+
+540
+00:38:58,240 --> 00:39:02,211
+Hey, hey. It's me.
+
+541
+00:39:03,800 --> 00:39:06,610
+Hey. Hey, sweetheart, it's me.
+
+542
+00:39:06,760 --> 00:39:08,125
+She's in shock.
+I need a blanket, please.
+
+543
+00:39:08,320 --> 00:39:10,687
+Yeah. Yeah, I'll...
+
+544
+00:39:10,840 --> 00:39:14,606
+Hey... Baby, it's me. You're OK.
+
+545
+00:39:14,760 --> 00:39:17,001
+- EVA: Frank? I can't find them.
+- Get me the blanket. Hurry up!
+
+546
+00:39:17,160 --> 00:39:18,525
+Right over there. In the top...
+
+547
+00:39:22,040 --> 00:39:24,486
+(DRY SWALLOWING)
+
+548
+00:39:24,640 --> 00:39:27,211
+(WHISPERS) Did I just die?
+
+549
+00:39:38,120 --> 00:39:39,121
+FRANK: OK...
+
+550
+00:39:49,040 --> 00:39:50,246
+You're good.
+
+551
+00:39:52,080 --> 00:39:53,366
+EVA: What was it like?
+
+552
+00:39:55,280 --> 00:39:58,682
+Well, I mean... did you see anything?
+
+553
+00:39:59,600 --> 00:40:01,489
+(DISTANT SCREAMS)
+
+554
+00:40:02,520 --> 00:40:04,010
+- EVA: Like heaven or...
+- FRANK: You know,
+
+555
+00:40:04,160 --> 00:40:05,571
+this might not be the best time.
+
+556
+00:40:05,720 --> 00:40:08,121
+Start breaking down the lab.
+Let's set up the MRI.
+
+557
+00:40:08,280 --> 00:40:11,240
+I want to do these diagnostics and
+get out of here as soon as possible, OK?
+
+558
+00:40:11,840 --> 00:40:12,841
+Yeah.
+
+559
+00:40:17,720 --> 00:40:19,882
+NIKO: And there goes the guard.
+
+560
+00:40:21,080 --> 00:40:22,445
+We're clear.
+
+561
+00:40:24,080 --> 00:40:25,730
+All right, let's get this over with.
+
+562
+00:40:27,600 --> 00:40:30,444
+Awesome.
+
+563
+00:40:30,600 --> 00:40:32,364
+(MACHINE WHIRRING)
+
+564
+00:40:35,200 --> 00:40:38,363
+(COMPUTER BEEPING)
+
+565
+00:40:42,480 --> 00:40:43,606
+(SIGHS)
+
+566
+00:40:43,760 --> 00:40:47,082
+- That's not right.
+- What?
+
+567
+00:40:48,520 --> 00:40:50,921
+I don't know. Frank,
+you want to come take a look at this?
+
+568
+00:40:51,080 --> 00:40:52,525
+What?
+
+569
+00:40:53,320 --> 00:40:55,402
+Not only is her body
+almost completely healed,
+
+570
+00:40:55,560 --> 00:40:57,642
+but that's too much neural activity.
+
+571
+00:40:57,800 --> 00:41:00,963
+Yeah, that's too much.
+I want to get her out of there.
+
+572
+00:41:01,120 --> 00:41:04,040
+We'll retest her in an hour, once
+the serum has had a chance to dissipate.
+
+573
+00:41:04,080 --> 00:41:05,760
+I'm sorry,
+but do you not remember the dog?
+
+574
+00:41:05,880 --> 00:41:07,530
+The serum still has not dissipated.
+
+575
+00:41:07,680 --> 00:41:11,082
+Yes, that was a goddamn dog.
+This is a person. Let her out of there.
+
+576
+00:41:11,280 --> 00:41:12,850
+(SIGHS)
+
+577
+00:41:13,000 --> 00:41:15,731
+- FRANK: Clay!
+- (DOOR BUZZES)
+
+578
+00:41:20,240 --> 00:41:21,844
+(NIKO EXHALES)
+
+579
+00:41:22,040 --> 00:41:23,451
+(DOOR CLOSES)
+
+580
+00:41:24,280 --> 00:41:25,725
+What's going on?
+
+581
+00:41:25,920 --> 00:41:28,571
+NIKO: You know how they say humans
+only use ten percent of their brain?
+
+582
+00:41:28,720 --> 00:41:31,481
+- EVA: I thought that was a myth.
+- No, the myth is that we don't know
+
+583
+00:41:31,520 --> 00:41:32,851
+what the other 90 percent does.
+
+584
+00:41:33,000 --> 00:41:36,482
+Humans use their entire brain,
+we just use ten percent at a time.
+
+585
+00:41:36,680 --> 00:41:37,841
+She's just sitting in there.
+
+586
+00:41:38,000 --> 00:41:39,920
+A small chunk of her brain
+should be lighting up.
+
+587
+00:41:40,880 --> 00:41:43,326
+But... the whole thing is lit up.
+
+588
+00:41:44,200 --> 00:41:46,521
+Yeah. That's the weird part.
+
+589
+00:41:47,840 --> 00:41:49,524
+FRANK: Just take a seat, OK?
+
+590
+00:41:50,920 --> 00:41:53,810
+(SIGHS) All right.
+
+591
+00:41:54,680 --> 00:41:58,446
+- How are you?
+- Shouldn't we be going to the hospital?
+
+592
+00:41:59,560 --> 00:42:02,040
+Look, we have
+all the same equipment here,
+
+593
+00:42:02,200 --> 00:42:05,124
+and there's nobody more qualified
+to take care of you than me.
+
+594
+00:42:05,280 --> 00:42:07,203
+They don't understand this.
+
+595
+00:42:07,360 --> 00:42:09,283
+Just gonna get you stable first, OK?
+
+596
+00:42:11,880 --> 00:42:12,927
+Hey.
+
+597
+00:42:13,080 --> 00:42:14,366
+You're gonna be OK.
+
+598
+00:42:21,800 --> 00:42:24,406
+(ZOE SNIFFLES, EXHALING)
+
+599
+00:42:26,240 --> 00:42:27,287
+(SNIFFLING)
+
+600
+00:42:27,480 --> 00:42:30,723
+- I thought I lost you.
+- You did.
+
+601
+00:42:32,120 --> 00:42:33,849
+But I didn't.
+
+602
+00:42:35,120 --> 00:42:37,043
+I have something for you.
+
+603
+00:42:39,400 --> 00:42:41,368
+Gimme this.
+
+604
+00:42:41,520 --> 00:42:43,329
+- Ah, shit. Sorry. Sorry.
+- (SHARP INHALE)
+
+605
+00:42:43,480 --> 00:42:45,289
+Um...
+
+606
+00:42:45,440 --> 00:42:46,965
+OK. Um...
+
+607
+00:42:47,960 --> 00:42:51,169
+Here. Can't believe I'm doing this.
+
+608
+00:42:53,360 --> 00:42:56,045
+This is the one and only time
+I go Catholic.
+
+609
+00:42:56,200 --> 00:42:59,044
+- (LAUGHS)
+- But this once.
+
+610
+00:42:59,600 --> 00:43:01,284
+Thank you.
+
+611
+00:43:01,960 --> 00:43:04,281
+- It's good to hear you laugh.
+- (CHUCKLES)
+
+612
+00:43:06,760 --> 00:43:08,600
+FRANK: (THINKING)
+<i>Something's definitely wrong.</i>
+
+613
+00:43:08,680 --> 00:43:11,445
+- (SHARP GASP)
+- What?
+
+614
+00:43:11,600 --> 00:43:15,321
+- What did you just say?
+- I didn't say anything.
+
+615
+00:43:15,480 --> 00:43:16,641
+(EXHALES)
+
+616
+00:43:18,880 --> 00:43:20,211
+FRANK: Are you OK?
+
+617
+00:43:21,480 --> 00:43:23,767
+Yeah. Yeah.
+
+618
+00:43:24,920 --> 00:43:26,729
+I think I'm just tired.
+
+619
+00:43:26,880 --> 00:43:29,121
+- You've just been through...
+- (LOW VOICE) "A traumatic experience.
+
+620
+00:43:29,280 --> 00:43:32,568
+You need to let your body heal.
+Just try to take it easy, OK?
+
+621
+00:43:32,720 --> 00:43:34,290
+I'll be right outside the door."
+
+622
+00:43:38,160 --> 00:43:39,161
+(NORMAL VOICE) What?
+
+623
+00:43:40,240 --> 00:43:42,891
+Nothing. (NERVOUS CHUCKLE) <i>Um...</i>
+
+624
+00:43:44,240 --> 00:43:46,049
+Gonna come check on you in a second.
+I'll be right back.
+
+625
+00:43:46,200 --> 00:43:47,725
+OK.
+
+626
+00:43:49,480 --> 00:43:50,606
+ZOE: Hey.
+
+627
+00:43:52,560 --> 00:43:53,561
+I love you.
+
+628
+00:43:55,160 --> 00:43:56,685
+I love you, too.
+
+629
+00:44:05,120 --> 00:44:08,124
+- (LOW VIBRATION)
+- (DISTANT VOICES ECHOING)
+
+630
+00:44:22,080 --> 00:44:24,447
+- (PEN CLATTERS)
+- (GASPS)
+
+631
+00:44:24,640 --> 00:44:27,564
+(INDISTINCT, OVERLAPPING WHISPERS)
+
+632
+00:44:27,720 --> 00:44:30,246
+(INAUDIBLE DIALOGUE)
+
+633
+00:44:31,320 --> 00:44:33,288
+(OVERLAPPING WHISPERS CONTINUE)
+
+634
+00:44:33,480 --> 00:44:35,960
+(HIGH-PITCHED TONE)
+
+635
+00:44:36,120 --> 00:44:39,203
+EVA: (THINKING) <i>Oh, my God,
+this is a mistake. I should not be here.</i>
+
+636
+00:44:39,400 --> 00:44:42,449
+<i>We actually killed someone.
+I killed someone.</i>
+
+637
+00:44:42,600 --> 00:44:44,090
+<i>I know this isn't right.</i>
+
+638
+00:44:44,280 --> 00:44:46,726
+CLAY: (THINKING) <i>This is such
+a bad idea. Did you not see the dog?</i>
+
+639
+00:44:46,880 --> 00:44:49,645
+(ECHOING) <i>The serum stays in the brain.</i>
+
+640
+00:44:50,720 --> 00:44:54,202
+NIKO: (THINKING) <i>We can't cover this up.
+That's not Zoe in there.</i>
+
+641
+00:44:54,360 --> 00:44:56,249
+<i>We shouldn't have brought her back.</i>
+
+642
+00:44:57,000 --> 00:44:59,400
+FRANK: (THINKING) <i>I need more time.
+I'm gonna fix it, though.</i>
+
+643
+00:44:59,520 --> 00:45:00,965
+<i>I'm gonna fix this.</i>
+
+644
+00:45:01,120 --> 00:45:03,327
+<i>There is something very wrong with her.</i>
+
+645
+00:45:03,480 --> 00:45:06,165
+<i>Just keep making her think
+everything's fine.</i>
+
+646
+00:45:06,320 --> 00:45:08,129
+<i>Letting her know
+that she's gonna be fine.</i>
+
+647
+00:45:08,280 --> 00:45:11,250
+(OVERLAPPING VOICES ECHOING)
+
+648
+00:45:13,240 --> 00:45:15,288
+(LIGHT BUZZING)
+
+649
+00:45:16,320 --> 00:45:17,890
+(SIZZLING)
+
+650
+00:45:22,920 --> 00:45:24,285
+(GASPS)
+
+651
+00:45:55,440 --> 00:45:57,249
+- (SHATTERING)
+- (INHALES SHARPLY)
+
+652
+00:45:57,440 --> 00:45:59,249
+(GASPING)
+
+653
+00:46:12,480 --> 00:46:15,131
+(DOG SNARLING)
+
+654
+00:46:17,840 --> 00:46:21,970
+(LOW GROWLING)
+
+655
+00:46:27,240 --> 00:46:29,925
+- (DOG CRIES OUT)
+- (SILENCE)
+
+656
+00:46:53,840 --> 00:46:55,171
+FRANK: Hey.
+
+657
+00:46:56,360 --> 00:46:58,442
+I think something's wrong.
+
+658
+00:46:59,160 --> 00:47:01,527
+- (GROANING)
+- Oh! Oh!
+
+659
+00:47:01,680 --> 00:47:04,570
+OK, OK, all right, you're OK.
+Come here. Come here. You're OK.
+
+660
+00:47:04,720 --> 00:47:07,769
+- No. No, I'm not OK. I'm not OK.
+- You're OK. You're all right.
+
+661
+00:47:07,920 --> 00:47:09,046
+Something's happening.
+
+662
+00:47:09,200 --> 00:47:11,362
+- Something happened. I'm changing.
+- OK, OK...
+
+663
+00:47:11,520 --> 00:47:13,602
+OK, shh. Calm down.
+What's happening?
+
+664
+00:47:13,760 --> 00:47:16,366
+(WHISPERS)
+I can hear things. I can see things.
+
+665
+00:47:16,560 --> 00:47:17,721
+Look, look at my hand.
+
+666
+00:47:20,120 --> 00:47:21,281
+Wait...
+
+667
+00:47:22,880 --> 00:47:27,886
+- There's nothing wrong with your hand.
+- Frank, when I died, I went somewhere.
+
+668
+00:47:29,440 --> 00:47:31,090
+I was in the building. I was there.
+
+669
+00:47:31,280 --> 00:47:32,884
+I could hear the people,
+they were stuck!
+
+670
+00:47:33,040 --> 00:47:34,565
+Zoe, that was a dream.
+
+671
+00:47:34,720 --> 00:47:37,040
+It's a traumatic memory
+from your childhood. It's not real.
+
+672
+00:47:37,120 --> 00:47:40,488
+That's what I thought.
+I couldn't wake up.
+
+673
+00:47:40,640 --> 00:47:43,325
+I was stuck.
+It was endless. I tried.
+
+674
+00:47:43,480 --> 00:47:46,404
+It went on and on.
+And every day, I was there.
+
+675
+00:47:46,560 --> 00:47:48,528
+It was the same, over and over.
+Every single day.
+
+676
+00:47:48,680 --> 00:47:50,523
+Zoe, you were gone
+for less than an hour.
+
+677
+00:47:50,720 --> 00:47:53,803
+- You were right here. You didn't...
+- Oh, no, no. You don't understand.
+
+678
+00:47:53,960 --> 00:47:58,124
+It's been years.
+I've been in there for years.
+
+679
+00:48:01,120 --> 00:48:03,168
+Look, listen to me, OK?
+
+680
+00:48:03,320 --> 00:48:05,721
+Your brain was failing
+due to the lack of oxygen.
+
+681
+00:48:05,880 --> 00:48:07,564
+You're hallucinating from the DMT.
+
+682
+00:48:07,720 --> 00:48:09,722
+This is a terrible memory
+from your childhood,
+
+683
+00:48:09,880 --> 00:48:12,724
+- but it's playing in a traumatic loop.
+- No. It was hell.
+
+684
+00:48:13,800 --> 00:48:15,802
+That's what hell is.
+
+685
+00:48:16,520 --> 00:48:21,287
+You relive the worst moment of your life
+on a loop, over and over,
+
+686
+00:48:21,440 --> 00:48:23,442
+and you can never wake up.
+
+687
+00:48:24,560 --> 00:48:28,326
+Listen, you're here.
+You are here now and you are awake.
+
+688
+00:48:31,440 --> 00:48:33,169
+You're fine.
+
+689
+00:48:36,720 --> 00:48:38,404
+- Yeah.
+- OK.
+
+690
+00:48:50,600 --> 00:48:52,523
+OK.
+
+691
+00:48:54,480 --> 00:48:57,962
+All right, that's just gonna
+help you sleep a little bit, OK?
+
+692
+00:49:02,560 --> 00:49:05,803
+(INDISTINCT, OVERLAPPING WHISPERS)
+
+693
+00:49:14,400 --> 00:49:15,845
+(SOFTLY) Zoe?
+
+694
+00:49:16,960 --> 00:49:18,928
+(DISTANT, INDISTINCT VOICES)
+
+695
+00:49:55,600 --> 00:50:01,004
+- (DISTANT SCREAMING)
+- (POUNDING ON DOOR)
+
+696
+00:50:02,400 --> 00:50:03,561
+Frank?
+
+697
+00:50:05,320 --> 00:50:08,164
+- (POUNDING CONTINUES)
+- Zoe?
+
+698
+00:50:10,600 --> 00:50:14,161
+- (OVERLAPPING SCREAMS)
+- Frank!
+
+699
+00:50:14,360 --> 00:50:16,727
+- (POUNDING CONTINUES)
+- Zoe, can you hear me?
+
+700
+00:50:19,800 --> 00:50:21,848
+EVA: (VOICE ECHOES)
+<i>I should not be here.</i>
+
+701
+00:50:33,600 --> 00:50:36,171
+Hi. Do you know... where we are?
+
+702
+00:50:43,160 --> 00:50:46,801
+What have you got there? I...
+What do you have in your hand?
+
+703
+00:50:58,360 --> 00:51:01,125
+(MUFFLED VOICES ECHOING)
+
+704
+00:51:06,360 --> 00:51:11,764
+(SCREAMING)
+
+705
+00:51:11,960 --> 00:51:15,681
+- (GASPS, SOBS)
+- Hey, hey, hey, hey.
+
+706
+00:51:15,880 --> 00:51:17,962
+(SOBBING)
+
+707
+00:51:18,120 --> 00:51:19,451
+Eva.
+
+708
+00:51:19,600 --> 00:51:22,046
+- (HYSTERICAL PANTING)
+- FRANK: Eva!
+
+709
+00:51:22,880 --> 00:51:24,405
+- Need some help...
+- Hey.
+
+710
+00:51:24,600 --> 00:51:26,728
+Hey, look at me.
+Look at me. You're OK, you're OK.
+
+711
+00:51:26,880 --> 00:51:30,521
+- What happened? Tell me what happened.
+- (PANTING)
+
+712
+00:51:30,680 --> 00:51:33,160
+(VOICE TREMBLING)
+I was... I was somewhere else.
+
+713
+00:51:33,360 --> 00:51:39,367
+I was in this building, a hallway,
+and I saw this girl.
+
+714
+00:51:40,880 --> 00:51:43,690
+And the building was on fire and...
+
+715
+00:51:45,160 --> 00:51:46,605
+...there were these people
+in an apartment,
+
+716
+00:51:46,760 --> 00:51:49,127
+and they couldn't get out, and...
+(SOBS)
+
+717
+00:51:49,280 --> 00:51:52,602
+...I could see their fingers
+underneath the door.
+
+718
+00:51:52,760 --> 00:51:55,127
+(CONTINUES SOBBING)
+
+719
+00:51:55,280 --> 00:51:57,203
+What's that on your arm?
+
+720
+00:51:58,160 --> 00:52:00,606
+Holy... This is...
+
+721
+00:52:00,800 --> 00:52:03,007
+That's where it grabbed me! Oh!
+
+722
+00:52:03,160 --> 00:52:05,322
+NIKO: What... What grabbed you?
+
+723
+00:52:08,600 --> 00:52:10,602
+- I don't know.
+- Frank?
+
+724
+00:52:10,760 --> 00:52:13,809
+You wanna tell us what's going on here?
+
+725
+00:52:15,960 --> 00:52:18,566
+- Frank! What the hell's going on, man?
+- (STAMMERS) I... You...
+
+726
+00:52:18,720 --> 00:52:20,440
+She told you, right?
+Obviously she told you.
+
+727
+00:52:20,560 --> 00:52:22,050
+- What?
+- FRANK: She told you.
+
+728
+00:52:22,240 --> 00:52:24,527
+- No.
+- CLAY: What? Told her what?
+
+729
+00:52:24,680 --> 00:52:26,921
+Look, when Zoe was a little girl,
+
+730
+00:52:27,120 --> 00:52:29,771
+the apartment building she lived in
+caught on fire
+
+731
+00:52:29,920 --> 00:52:32,526
+and her neighbors
+got trapped behind a door.
+
+732
+00:52:33,520 --> 00:52:35,841
+She still has nightmares about it.
+
+733
+00:52:36,000 --> 00:52:37,570
+CLAY: That sound like what you saw?
+
+734
+00:52:38,880 --> 00:52:40,370
+(WHISPERS) Yeah.
+
+735
+00:52:41,200 --> 00:52:45,091
+How's that even possible?
+How's that possible, Frank?
+
+736
+00:52:45,240 --> 00:52:51,247
+Zoe said... after you die,
+your body creates... like a compound,
+
+737
+00:52:51,400 --> 00:52:54,324
+- and it helps your soul move on or...
+- DMT.
+
+738
+00:52:54,520 --> 00:52:55,521
+Right.
+
+739
+00:52:55,680 --> 00:52:57,489
+She said it opens a door
+to somewhere else.
+
+740
+00:52:57,640 --> 00:53:01,804
+What... What if the door didn't open?
+
+741
+00:53:01,960 --> 00:53:04,611
+What if Zoe's soul couldn't get through?
+
+742
+00:53:05,880 --> 00:53:08,531
+What if she's trapped
+in her own nightmare?
+
+743
+00:53:08,680 --> 00:53:10,284
+This is bullshit. You're lying.
+
+744
+00:53:11,080 --> 00:53:12,366
+- EVA: Lying?
+- Frank...
+
+745
+00:53:12,520 --> 00:53:14,648
+EVA: Frank, I'm not lying!
+I'm not lying!
+
+746
+00:53:14,800 --> 00:53:17,280
+Hey. We can't deal with this
+by ourselves.
+
+747
+00:53:17,440 --> 00:53:19,568
+We have no idea
+what's going on in there!
+
+748
+00:53:19,720 --> 00:53:21,563
+- Did you see her arm?
+- Yes, I saw it! OK?
+
+749
+00:53:21,760 --> 00:53:23,046
+What do you want me to do?
+
+750
+00:53:23,200 --> 00:53:26,443
+Look... if we screw this up,
+we're gonna lose Zoe.
+
+751
+00:53:26,640 --> 00:53:29,689
+Help me. Please.
+
+752
+00:53:40,160 --> 00:53:42,128
+- (MUTTERS) Asshole.
+- CLAY: Dude.
+
+753
+00:53:44,280 --> 00:53:47,409
+All right, rest 24 hours,
+take an Advil, and call me.
+
+754
+00:53:52,040 --> 00:53:53,405
+You good?
+
+755
+00:53:55,400 --> 00:53:57,402
+It was like I was there.
+
+756
+00:53:58,880 --> 00:54:01,201
+How is that even possible?
+
+757
+00:54:02,480 --> 00:54:05,245
+I'm telling you, it's the serum.
+
+758
+00:54:05,400 --> 00:54:08,370
+It's... It's like...
+unlocking the part of the brain
+
+759
+00:54:08,520 --> 00:54:10,443
+that lets you do crazy psychic shit.
+
+760
+00:54:10,640 --> 00:54:14,486
+That's your big theory?
+"Crazy psychic shit"?
+
+761
+00:54:14,640 --> 00:54:18,326
+There's a reason why evolution
+happens really slowly.
+
+762
+00:54:18,520 --> 00:54:22,809
+And right now, her brain is doing things
+a human brain was never designed to do.
+
+763
+00:54:22,960 --> 00:54:27,329
+And it's not taking millions of years,
+it's taking minutes.
+
+764
+00:54:27,480 --> 00:54:30,131
+(INDISTINCT, OVERLAPPING WHISPERS)
+
+765
+00:54:34,320 --> 00:54:36,129
+(WHISPERS) Hail Mary, full of grace...
+
+766
+00:54:36,280 --> 00:54:39,124
+(MUTTERS INDISTINCTLY)
+
+767
+00:54:39,280 --> 00:54:40,725
+Holy Mary, Mother of God, pray...
+
+768
+00:54:40,920 --> 00:54:43,491
+Frank, you're gonna want to see this.
+
+769
+00:54:46,160 --> 00:54:48,686
+- What am I looking at here?
+- I logged in as an admin
+
+770
+00:54:48,840 --> 00:54:51,446
+so I could scrub through
+the security footage, and I found this.
+
+771
+00:54:51,640 --> 00:54:54,166
+It's a dummy account. Every day
+it downloads everything in our system
+
+772
+00:54:54,320 --> 00:54:55,890
+- and makes a copy of it.
+- So?
+
+773
+00:54:56,040 --> 00:54:59,044
+Someone's been watching us for...
+like, months now.
+
+774
+00:54:59,200 --> 00:55:00,565
+All right, maybe it's the school.
+
+775
+00:55:00,720 --> 00:55:02,840
+The school doesn't need
+to hack into our system. <i>It...</i>
+
+776
+00:55:03,400 --> 00:55:04,447
+It's gotta be Crylonis.
+
+777
+00:55:06,760 --> 00:55:08,649
+When was that last updated?
+
+778
+00:55:09,720 --> 00:55:12,291
+- Twenty minutes ago.
+- Means they know we're here already.
+
+779
+00:55:12,440 --> 00:55:14,681
+NIKO:
+If they don't, they will very soon.
+
+780
+00:55:14,840 --> 00:55:16,922
+We need to leave now.
+Get the dog, gather everything.
+
+781
+00:55:17,120 --> 00:55:18,770
+- Can you take care of that?
+- CLAY: Where's the dog?
+
+782
+00:55:18,960 --> 00:55:20,485
+- EVA: I put him in his cage.
+- CLAY: Not in the cage.
+
+783
+00:55:20,640 --> 00:55:22,244
+All right.
+Everybody, drop what you're doing,
+
+784
+00:55:22,400 --> 00:55:23,925
+find the dog, get your stuff together.
+
+785
+00:55:24,080 --> 00:55:26,162
+- Niko, handle that. We're leaving!
+- OK.
+
+786
+00:55:42,240 --> 00:55:44,242
+(BREATHING RAPIDLY)
+
+787
+00:55:46,080 --> 00:55:49,766
+(INDISTINCT, OVERLAPPING WHISPERS)
+
+788
+00:55:51,760 --> 00:55:54,047
+(MURMURS INDISTINCTLY)
+
+789
+00:55:56,360 --> 00:55:58,567
+(CLATTERING)
+
+790
+00:56:12,080 --> 00:56:14,401
+(SHRIEK ECHOING)
+
+791
+00:56:28,600 --> 00:56:30,284
+(SOFT THUMP NEARBY)
+
+792
+00:56:30,440 --> 00:56:31,965
+Zoe?
+
+793
+00:56:32,800 --> 00:56:34,290
+Zoe?
+
+794
+00:56:39,440 --> 00:56:41,647
+(LIGHTS BUZZING)
+
+795
+00:56:53,480 --> 00:56:55,600
+- (WHISPERS) Niko.
+- Jesus, what're you doing in here?
+
+796
+00:56:55,680 --> 00:56:57,409
+- I need your help.
+- We gotta get you back.
+
+797
+00:56:57,600 --> 00:57:00,570
+I need your help.
+You have to make me feel normal.
+
+798
+00:57:00,720 --> 00:57:03,724
+- OK, wait. OK, what... Are you OK?
+- You have to make me feel normal.
+
+799
+00:57:03,880 --> 00:57:05,882
+- I need it. Please.
+- Whoa, whoa, whoa. Just...
+
+800
+00:57:06,040 --> 00:57:08,247
+You just went through something
+very traumatic, OK?
+
+801
+00:57:08,440 --> 00:57:11,091
+- I think you may be confused...
+- You don't understand.
+
+802
+00:57:11,280 --> 00:57:15,524
+Niko, you are the only one
+I can trust. OK?
+
+803
+00:57:18,120 --> 00:57:19,451
+Help me.
+
+804
+00:57:24,320 --> 00:57:26,971
+No! No! No, stop.
+
+805
+00:57:27,120 --> 00:57:30,044
+- I thought you were my friend.
+- I am your friend.
+
+806
+00:57:30,200 --> 00:57:32,521
+But you're not being yourself right now.
+We still don't understand...
+
+807
+00:57:32,680 --> 00:57:34,523
+"...what's happening to you."
+
+808
+00:57:35,200 --> 00:57:37,168
+(EXHALES)
+
+809
+00:57:37,320 --> 00:57:41,644
+I spent my whole life
+trying to make up for one mistake.
+
+810
+00:57:42,320 --> 00:57:44,891
+I did everything right.
+
+811
+00:57:45,040 --> 00:57:47,168
+And I still ended up in hell.
+
+812
+00:57:48,520 --> 00:57:52,047
+Zoe, we can help you.
+Frank said we can fix this.
+
+813
+00:57:52,200 --> 00:57:55,204
+- We just need more time.
+- Oh, no.
+
+814
+00:57:55,360 --> 00:57:57,089
+It's too late for that.
+
+815
+00:57:58,720 --> 00:58:00,882
+You have no idea what you've done.
+
+816
+00:58:03,360 --> 00:58:04,441
+But you will.
+
+817
+00:58:04,600 --> 00:58:07,968
+(MACHINES POWERING DOWN)
+
+818
+00:58:16,280 --> 00:58:17,930
+(LIGHTS BUZZING)
+
+819
+00:58:18,840 --> 00:58:20,126
+Zoe, please!
+
+820
+00:58:33,560 --> 00:58:34,721
+NIKO: Zoe?
+
+821
+00:58:34,880 --> 00:58:37,201
+(BANGING ON DOORS)
+
+822
+00:58:37,360 --> 00:58:40,284
+- (METAL CREAKING)
+- NIKO: Zoe, please!
+
+823
+00:58:41,760 --> 00:58:43,922
+- Zoe...(SCREAMS)
+- (BONES CRUSHING)
+
+824
+00:58:44,120 --> 00:58:45,645
+(SILENCE)
+
+825
+00:58:59,680 --> 00:59:00,806
+FRANK: Hey.
+
+826
+00:59:01,520 --> 00:59:05,002
+- Everything OK in here?
+- ZOE: Yeah. Why, what's wrong?
+
+827
+00:59:05,160 --> 00:59:08,323
+- Hey, guys, where's Niko?
+- He was gone when I got here.
+
+828
+00:59:08,520 --> 00:59:12,081
+- I think he went to the bathroom.
+- I was just there a second ago.
+
+829
+00:59:12,240 --> 00:59:14,561
+- It's what he said.
+- To hell with this.
+
+830
+00:59:14,720 --> 00:59:16,290
+- Wait. Wait, what?
+- I'm calling security, man.
+
+831
+00:59:16,440 --> 00:59:19,649
+- Hey, wait. Think about this.
+- This is too much weird shit!
+
+832
+00:59:19,800 --> 00:59:22,883
+OK? I'm done! They can arrest me,
+whatever, I don't care. I'm done!
+
+833
+00:59:23,080 --> 00:59:27,085
+You've wasted three years of my life
+because you can't read a contract.
+
+834
+00:59:27,240 --> 00:59:29,049
+You're not my boss
+and you're not my friend.
+
+835
+00:59:29,200 --> 00:59:30,725
+- Now get out of my way.
+- You want me to apologize?
+
+836
+00:59:30,920 --> 00:59:32,729
+Fine, I'll apologize, OK?
+
+837
+00:59:32,920 --> 00:59:35,685
+You know what's gonna happen if
+they find out what's going on in here?
+
+838
+00:59:36,960 --> 00:59:39,884
+They're gonna put her in a lab and
+they're gonna cut her up into pieces,
+
+839
+00:59:40,040 --> 00:59:43,123
+- and we're never gonna see her again.
+- You don't know that.
+
+840
+00:59:43,280 --> 00:59:45,123
+FRANK: (THINKING)
+<i>It's what I would do.</i>
+
+841
+00:59:46,440 --> 00:59:49,808
+- Sorry. No, no. Get out of my way.
+- (SYSTEMS POWERING DOWN)
+
+842
+00:59:49,960 --> 00:59:52,691
+- FRANK: Jesus.
+- What the hell! Are you kiddin' me?
+
+843
+00:59:52,840 --> 00:59:55,002
+FRANK:
+It's fine, it's a blackout. It's fine.
+
+844
+00:59:55,160 --> 00:59:57,925
+CLAY: It's fine! It's all fine, Frank!
+
+845
+00:59:58,080 --> 01:00:01,050
+Hey... does this happen often?
+
+846
+01:00:01,240 --> 01:00:03,368
+You know how many emergency systems
+are in this place?
+
+847
+01:00:03,520 --> 01:00:07,570
+The phones don't go dead.
+It doesn't happen.
+
+848
+01:00:07,720 --> 01:00:10,007
+- There's no way.
+- FRANK: Come on, let's go.
+
+849
+01:00:19,920 --> 01:00:22,082
+FRANK: Everything's fried.
+Don't bother with that.
+
+850
+01:00:23,320 --> 01:00:26,449
+- It's stuck.
+- Let me try, let me try. Let me try!
+
+851
+01:00:27,320 --> 01:00:29,448
+(GRUNTING)
+
+852
+01:00:29,640 --> 01:00:31,449
+It's stuck.
+Here, help me with the elevator.
+
+853
+01:00:33,560 --> 01:00:36,530
+(BOTH GRUNTING)
+
+854
+01:00:36,680 --> 01:00:40,127
+Damn it! (PANTING)
+
+855
+01:00:41,040 --> 01:00:43,008
+There's gotta be another way out.
+
+856
+01:00:43,920 --> 01:00:45,365
+Right?
+
+857
+01:01:02,840 --> 01:01:04,365
+- ZOE: Where are you going?
+- To find Niko.
+
+858
+01:01:04,520 --> 01:01:05,600
+You're not wrong, you know.
+
+859
+01:01:05,760 --> 01:01:10,084
+You're thinking, "I don't belong here.
+I never belonged here."
+
+860
+01:01:12,240 --> 01:01:14,447
+It's OK to think that. You're right.
+
+861
+01:01:15,000 --> 01:01:18,447
+You're not one of us. You never were.
+
+862
+01:01:18,600 --> 01:01:20,728
+Some people are destined
+for great things,
+
+863
+01:01:20,880 --> 01:01:23,201
+and other people just hold the camera.
+
+864
+01:01:24,400 --> 01:01:26,641
+FRANK: All right,
+the system's on lock-down mode.
+
+865
+01:01:26,800 --> 01:01:28,802
+- EVA: Meaning what?
+- It's automated.
+
+866
+01:01:28,960 --> 01:01:30,962
+If it thinks there's any danger
+of a contaminant escaping,
+
+867
+01:01:31,160 --> 01:01:33,640
+- the whole place just shuts down.
+- What about the elevator?
+
+868
+01:01:33,800 --> 01:01:35,928
+FRANK: We tried it.
+Gonna have to figure something else out.
+
+869
+01:01:36,080 --> 01:01:38,367
+What did you do?
+
+870
+01:01:38,520 --> 01:01:40,807
+Zoe, what did you do?
+
+871
+01:01:40,960 --> 01:01:43,804
+What are you talking about? I've been
+in here with you the entire time.
+
+872
+01:01:43,960 --> 01:01:46,645
+No, you were also
+the last person who saw Niko!
+
+873
+01:01:46,800 --> 01:01:50,043
+No! No, all this weird shit started
+happening as soon as she came back!
+
+874
+01:01:50,200 --> 01:01:53,409
+You guys said it yourselves,
+the serum did something to her brain!
+
+875
+01:01:54,880 --> 01:01:56,530
+FRANK: This is not the time to talk.
+
+876
+01:01:56,680 --> 01:01:59,126
+EVA: No, this is the exact time
+to talk about it!
+
+877
+01:01:59,280 --> 01:02:00,770
+I wanna know what happened to Niko.
+
+878
+01:02:00,920 --> 01:02:03,082
+FRANK: Jesus, can we all just relax
+and find a way out of here, please?
+
+879
+01:02:03,280 --> 01:02:05,931
+I wanna know what happened to Niko, now!
+
+880
+01:02:06,080 --> 01:02:07,411
+(GAGGING)
+
+881
+01:02:09,320 --> 01:02:11,163
+- (CHOKING)
+- Clay.
+
+882
+01:02:16,360 --> 01:02:17,964
+- EVA: Clay.
+- FRANK: Clay. Clay?
+
+883
+01:02:18,120 --> 01:02:19,281
+- EVA: Jesus, is he choking?
+- Clay?
+
+884
+01:02:19,440 --> 01:02:22,887
+- Frank! Frank! Frank, he's choking!
+- FRANK: There's an obstruction!
+
+885
+01:02:23,040 --> 01:02:25,441
+Give me the forceps!
+I need the forceps, right under there!
+
+886
+01:02:25,600 --> 01:02:27,807
+Hurry up! I need a light! Clay! Clay!
+
+887
+01:02:27,960 --> 01:02:29,769
+- (CHOKING)
+- Stay with me, Clay. Clay!
+
+888
+01:02:29,920 --> 01:02:32,969
+Give me the forceps! Let me see!
+I need a light! Clay!
+
+889
+01:02:34,200 --> 01:02:36,282
+- Now! Bring it here now!
+- OK!
+
+890
+01:02:37,560 --> 01:02:40,643
+- Clay...
+- Help me hold him still.
+
+891
+01:02:40,800 --> 01:02:42,643
+Clay! Clay! Clay! Clay! Jesus!
+
+892
+01:02:42,800 --> 01:02:44,802
+Clay, stay with me!
+Stay with me! Help me hold him still.
+
+893
+01:02:44,960 --> 01:02:49,363
+- Clay! Do you need the light?
+- FRANK: Jesus, what the hell is it?
+
+894
+01:02:49,520 --> 01:02:51,440
+Shine the light in there!
+Get the light in there!
+
+895
+01:02:52,200 --> 01:02:53,440
+(FRANK GRUNTING)
+
+896
+01:02:54,600 --> 01:02:56,568
+(EVA SOBBING)
+
+897
+01:02:58,240 --> 01:03:00,561
+- EVA: Clay!
+- FRANK: Oh, Jesus.
+
+898
+01:03:12,720 --> 01:03:14,210
+(LIGHTS BUZZING)
+
+899
+01:03:15,040 --> 01:03:17,281
+- FRANK: Oh, shit. Oh, shit.
+- EVA: Frank!
+
+900
+01:03:17,480 --> 01:03:18,891
+Oh, my...
+
+901
+01:03:19,040 --> 01:03:23,045
+- FRANK: Come here.
+- Oh, my God! Where is she? (PANTING)
+
+902
+01:03:23,200 --> 01:03:25,726
+- FRANK: Jesus!
+- Frank! She's gone! Frank, she's gone!
+
+903
+01:03:25,880 --> 01:03:28,201
+FRANK: Where'd she go? Zoe? Zoe?
+
+904
+01:03:28,360 --> 01:03:29,960
+Here, stay close.
+Stay close. Stay close.
+
+905
+01:03:30,040 --> 01:03:32,646
+- (POWER SIZZLES)
+- (EVA SHRIEKS, GASPING)
+
+906
+01:03:32,800 --> 01:03:34,882
+- FRANK: Zoe?
+- EVA: Zoe!
+
+907
+01:03:35,640 --> 01:03:37,005
+FRANK: Stay close.
+
+908
+01:03:37,160 --> 01:03:39,527
+(EVA PANTING)
+
+909
+01:03:45,040 --> 01:03:48,522
+- (FURNITURE CLATTERING)
+- (EVA SCREAMS)
+
+910
+01:03:48,720 --> 01:03:51,200
+- Zoe, stop! (SHRIEKS)
+- (FRANK SHOUTS)
+
+911
+01:03:51,360 --> 01:03:53,886
+(GLASS SHATTERING, FURNITURE BREAKING)
+
+912
+01:04:05,400 --> 01:04:09,041
+- (GLASS CRACKLING)
+- FRANK: (WHISPERS) Oh, my God.
+
+913
+01:04:10,280 --> 01:04:12,169
+Oh, my God. Eva.
+
+914
+01:04:12,320 --> 01:04:16,325
+- Eva, wake up. Eva, you OK? Come here.
+- Oh...
+
+915
+01:04:16,480 --> 01:04:19,529
+Come here. Get up.
+Gotta get up. Get up.
+
+916
+01:04:19,680 --> 01:04:21,489
+- Frank...
+- (BOTH PANTING)
+
+917
+01:04:26,920 --> 01:04:29,287
+We need a weapon
+or something we can use.
+
+918
+01:04:33,320 --> 01:04:34,685
+Hold this.
+
+919
+01:04:37,880 --> 01:04:39,928
+(SNIFFLING) Frank?
+
+920
+01:04:43,280 --> 01:04:46,489
+Frank... she killed him. She killed him!
+
+921
+01:04:46,640 --> 01:04:50,087
+- I know. I know. Listen to me.
+- (THUDDING)
+
+922
+01:04:53,120 --> 01:04:55,771
+- (VIBRATING)
+- Frank? Frank, what is that?
+
+923
+01:04:55,920 --> 01:04:57,206
+(EVA GASPS)
+
+924
+01:04:57,360 --> 01:04:59,681
+(METAL DRAWERS OPENING)
+
+925
+01:05:02,760 --> 01:05:03,966
+(EVA WHIMPERS)
+
+926
+01:05:16,000 --> 01:05:17,923
+(SCREAMS) Oh, my God! Frank!
+
+927
+01:05:21,640 --> 01:05:23,961
+Frank, they're coming! They're coming!
+They're alive!
+
+928
+01:05:24,120 --> 01:05:27,408
+Listen to me! Listen to me!
+They're not alive, OK? Come here.
+
+929
+01:05:27,560 --> 01:05:29,483
+This is called Embutramide.
+
+930
+01:05:29,640 --> 01:05:32,291
+We use it to put down lab animals.
+You need a full dose.
+
+931
+01:05:32,440 --> 01:05:34,090
+(FRANK PANTING RAPIDLY)
+
+932
+01:05:35,200 --> 01:05:37,771
+Listen to me. I need you to hide
+until I'm done with it.
+
+933
+01:05:37,920 --> 01:05:39,968
+- I am not leaving you. I am... No!
+- FRANK: Shh.
+
+934
+01:05:40,160 --> 01:05:43,642
+Hey, this is my fault. I'm gonna fix it.
+
+935
+01:05:43,800 --> 01:05:47,441
+But if I can't,
+I need you to promise me...
+
+936
+01:05:49,040 --> 01:05:51,202
+...you do not let her leave
+this laboratory, no matter what.
+
+937
+01:05:51,360 --> 01:05:53,931
+We cannot let her hurt anybody else,
+you understand me?
+
+938
+01:05:55,560 --> 01:05:57,562
+- Do you understand me?
+- I promise, I promise, I promise.
+
+939
+01:05:57,760 --> 01:05:59,967
+OK. I'm sorry.
+
+940
+01:06:01,200 --> 01:06:02,804
+Please...
+Frank, please don't leave me alone!
+
+941
+01:06:02,960 --> 01:06:06,089
+Frank, please don't leave me alone!
+Frank, please! (SOBBING)
+
+942
+01:06:22,320 --> 01:06:24,561
+(ZOE SOBS)
+
+943
+01:06:27,200 --> 01:06:28,201
+Zoe?
+
+944
+01:06:32,600 --> 01:06:36,207
+It's Frank. I'm not gonna hurt you.
+
+945
+01:06:38,440 --> 01:06:40,408
+I just wanna talk.
+
+946
+01:06:42,160 --> 01:06:46,165
+It's OK.
+I just wanna talk to you, that's all.
+
+947
+01:06:46,320 --> 01:06:48,641
+(LIGHTS POWERING DOWN)
+
+948
+01:06:49,160 --> 01:06:50,960
+(LOW VOICE) Then why
+do you have that syringe?
+
+949
+01:06:53,240 --> 01:06:55,641
+OK. All right.
+
+950
+01:06:59,840 --> 01:07:05,244
+Look, I know you're probably
+really scared... and confused.
+
+951
+01:07:05,400 --> 01:07:09,849
+This is not your fault, OK?
+I did this. This is my fault.
+
+952
+01:07:10,040 --> 01:07:12,884
+I'm so sorry, sweetie, OK?
+
+953
+01:07:13,040 --> 01:07:16,567
+We're gonna fix this.
+We can fix this together, OK?
+
+954
+01:07:16,760 --> 01:07:19,240
+We can do anything, you hear me?
+
+955
+01:07:19,400 --> 01:07:22,006
+It's you and me. I'm right here.
+
+956
+01:07:22,160 --> 01:07:25,209
+I'm not gonna hurt you. OK?
+
+957
+01:07:25,360 --> 01:07:26,691
+Look at me.
+
+958
+01:07:26,840 --> 01:07:28,763
+I'm with you.
+
+959
+01:07:31,480 --> 01:07:32,920
+(NORMAL VOICE) Do you still love me?
+
+960
+01:07:34,000 --> 01:07:35,729
+(VOICE QUAVERING)
+Yes, of course I do.
+
+961
+01:07:39,240 --> 01:07:40,526
+(SNIFFLING)
+
+962
+01:07:41,480 --> 01:07:43,482
+- Then show me.
+- (HIGH-PITCHED TONE)
+
+963
+01:07:43,640 --> 01:07:45,130
+FRANK: (THINKING)
+<i>This is not the Zoe I know.</i>
+
+964
+01:07:45,280 --> 01:07:47,726
+- FRANK: Zoe?
+- (ECHOING) <i>You've gotta stop her.</i>
+
+965
+01:07:47,880 --> 01:07:50,451
+<i>You get that needle and put her down.</i>
+
+966
+01:07:51,280 --> 01:07:52,406
+That's what I thought.
+
+967
+01:07:52,560 --> 01:07:53,721
+(GASPS)
+
+968
+01:07:54,680 --> 01:07:56,489
+(MOANS) Zoe!
+
+969
+01:07:56,640 --> 01:07:57,801
+(SOFT CRACKING)
+
+970
+01:07:59,160 --> 01:08:00,810
+(GROANING)
+
+971
+01:08:00,960 --> 01:08:02,325
+(INHUMAN SHRIEKING)
+
+972
+01:08:12,000 --> 01:08:13,684
+(BONES CRACKING)
+
+973
+01:08:41,000 --> 01:08:42,331
+(WHIRRING)
+
+974
+01:08:44,680 --> 01:08:45,727
+(LIGHTS BUZZING)
+
+975
+01:08:50,960 --> 01:08:53,008
+(ELECTRICITY SURGES)
+
+976
+01:08:53,840 --> 01:08:57,401
+(GASPING)
+
+977
+01:09:25,880 --> 01:09:27,450
+(SNIFFLING)
+
+978
+01:09:33,240 --> 01:09:34,810
+(PANTING)
+
+979
+01:09:34,960 --> 01:09:36,769
+ZOE: (ECHOING) <i>Eva!</i>
+
+980
+01:09:40,680 --> 01:09:43,411
+<i>Eva...</i>
+
+981
+01:10:22,360 --> 01:10:23,361
+(SOFTLY) Zoe?
+
+982
+01:10:28,320 --> 01:10:31,164
+<i>- ZOE: (ECHOING) Eva!</i>
+- (GASPS)
+
+983
+01:10:32,640 --> 01:10:35,803
+- (RAGGED BREATHING)
+- <i>Eva.</i>
+
+984
+01:10:38,000 --> 01:10:41,527
+- (RECORD SCRATCHES)
+- (OPERA MUSIC PLAYS LOUDLY)
+
+985
+01:11:09,960 --> 01:11:11,246
+(MUSIC STOPS)
+
+986
+01:11:17,200 --> 01:11:18,611
+(PANTING)
+
+987
+01:11:22,320 --> 01:11:25,164
+- Zoe?
+- (LIGHT BUZZES)
+
+988
+01:11:26,280 --> 01:11:27,850
+(BOUNCING)
+
+989
+01:11:28,000 --> 01:11:30,890
+(LIGHTS BUZZING)
+
+990
+01:11:44,200 --> 01:11:47,363
+(PANTING)
+Zoe, I know you're here!
+
+991
+01:11:51,360 --> 01:11:52,850
+(SOFT CLICK)
+
+992
+01:12:09,760 --> 01:12:11,444
+(CAP CLATTERING)
+
+993
+01:12:13,720 --> 01:12:15,563
+Zoe?
+
+994
+01:12:25,520 --> 01:12:27,887
+(INHUMAN SHRIEKING)
+
+995
+01:12:28,040 --> 01:12:30,441
+- Zoe, please!
+- Hail Mary, full of grace.
+
+996
+01:12:30,600 --> 01:12:32,170
+Our Lord is with thee.
+
+997
+01:12:32,360 --> 01:12:34,601
+Pray for us sinners,
+now and at the hour of our death.
+
+998
+01:12:34,760 --> 01:12:36,091
+(EVA SCREAMS)
+
+999
+01:12:39,680 --> 01:12:41,523
+(FIRE CRACKLING)
+
+1000
+01:12:51,840 --> 01:12:54,320
+(PANTING)
+
+1001
+01:12:59,400 --> 01:13:00,401
+Zoe?
+
+1002
+01:13:02,240 --> 01:13:03,241
+(DOORKNOB RATTLING)
+
+1003
+01:13:04,280 --> 01:13:06,487
+(POUNDING ON DOOR)
+
+1004
+01:13:07,640 --> 01:13:09,005
+It's her dream.
+
+1005
+01:13:10,080 --> 01:13:12,367
+Zoe! Zoe!
+
+1006
+01:13:13,040 --> 01:13:14,246
+Zoe, it's OK, it's me.
+
+1007
+01:13:20,280 --> 01:13:24,365
+(OVERLAPPING SCREAMS)
+
+1008
+01:13:31,320 --> 01:13:32,970
+You did this.
+
+1009
+01:13:34,400 --> 01:13:36,129
+You started the fire.
+
+1010
+01:13:36,280 --> 01:13:38,009
+(CRASHING)
+
+1011
+01:13:54,640 --> 01:13:56,961
+(SKIN SIZZLING)
+
+1012
+01:14:02,360 --> 01:14:04,886
+Hey, listen to me.
+This is not your fault.
+
+1013
+01:14:05,080 --> 01:14:06,491
+This wasn't your fault.
+
+1014
+01:14:09,320 --> 01:14:11,607
+You can stop this, OK?
+
+1015
+01:14:13,760 --> 01:14:16,001
+You can open the door.
+
+1016
+01:14:17,280 --> 01:14:20,568
+Zoe, open the door!
+
+1017
+01:14:39,520 --> 01:14:41,363
+(GASPING)
+
+1018
+01:14:43,760 --> 01:14:44,886
+(GASPS)
+
+1019
+01:14:46,520 --> 01:14:48,010
+(EXHALES)
+
+1020
+01:14:48,920 --> 01:14:50,490
+I'm sorry.
+
+1021
+01:14:54,520 --> 01:14:55,965
+I'm so sorry.
+
+1022
+01:14:57,200 --> 01:14:59,089
+(PLUNGING SYRINGE)
+
+1023
+01:14:59,240 --> 01:15:00,241
+(MOANING)
+
+1024
+01:15:13,600 --> 01:15:16,888
+(SIRENS WAILING IN DISTANCE)
+
+1025
+01:15:21,640 --> 01:15:22,846
+(CRASHING)
+
+1026
+01:15:24,800 --> 01:15:26,564
+(RADIO CHATTER ECHOES)
+
+1027
+01:15:39,840 --> 01:15:43,208
+- Hey, are you OK?
+- (SOBS) She killed them!
+
+1028
+01:15:45,600 --> 01:15:47,682
+(SOBBING)
+
+1029
+01:16:05,840 --> 01:16:07,285
+(BONES CRACKING)
+
+1030
+01:17:03,240 --> 01:17:06,323
+(MACHINE WHIRRING)
+
+1031
+01:17:09,200 --> 01:17:10,645
+(FLATLINE TONE)
+
+1032
+01:17:10,800 --> 01:17:13,167
+- (ELECTRICITY SURGES)
+- (GASPING)
